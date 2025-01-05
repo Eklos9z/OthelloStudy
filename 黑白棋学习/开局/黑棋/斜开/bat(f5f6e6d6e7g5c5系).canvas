@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"e4bd7320f54773f7","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_46_53_f5.png","x":40,"y":-320,"width":400,"height":400},
+		{"id":"7964a04ca197ecf2","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_50_05_f5f6.png","x":485,"y":-320,"width":400,"height":400},
+		{"id":"3ba03bf65b595228","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_50_09_f5f6e6.png","x":930,"y":-320,"width":400,"height":400},
+		{"id":"15ae100fd092fee4","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_50_14_f5f6e6d6.png","x":1375,"y":-320,"width":400,"height":400},
+		{"id":"f463d504eed36b5a","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_55_10_f5f6e6d6e7.png","x":1820,"y":-320,"width":400,"height":400},
+		{"id":"34bcdd72864fbd3b","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_55_16_f5f6e6d6e7g5.png","x":2265,"y":-320,"width":400,"height":400},
+		{"id":"8e6cc1adf9bb3a2b","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_55_17_f5f6e6d6e7g5c5.png","x":2710,"y":-320,"width":400,"height":400},
+		{"id":"078386aadb9b044a","type":"file","file":"开局/黑棋/斜开/picture/2025_01_06_00_11_16_f5f6e6d6e7g5c5f7.png","x":2710,"y":280,"width":400,"height":400},
+		{"id":"e63f26e71826cba6","type":"text","text":"对手有两个选择\n1. C6中割，翻动D7，破坏黑棋F4\n2. F7一子返","x":2785,"y":-580,"width":250,"height":140},
+		{"id":"f99ff16fb85774ec","type":"text","text":"对手没有影响黑棋F4\n故黑棋F4是好棋","x":2400,"y":920,"width":250,"height":60},
+		{"id":"e51798db265ed0dc","type":"text","text":"F7分支","x":2850,"y":160,"width":121,"height":60},
+		{"id":"ca124e0b79ba5ca3","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001333.png","x":2710,"y":780,"width":400,"height":400},
+		{"id":"11b7d3a2d6f13263","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001634.png","x":2710,"y":1360,"width":400,"height":400},
+		{"id":"233c01f6f9ac2632","type":"text","text":"白棋D3翻动E4，防止黑棋C6，同时控住C线，削弱黑棋G6导致的二子控线","x":2785,"y":1220,"width":250,"height":100},
+		{"id":"ade14bdd746468ab","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001611.png","x":2710,"y":1880,"width":400,"height":400},
+		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/对手边界的凝聚手不是好棋.md","x":3220,"y":780,"width":400,"height":400},
+		{"id":"ec22f0285d266ca2","x":2785,"y":1780,"width":250,"height":60,"type":"text","text":"黑棋E3，继续争取C6的控制权"}
+	],
+	"edges":[
+		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},
+		{"id":"587060119518b2e2","fromNode":"7964a04ca197ecf2","fromSide":"right","toNode":"3ba03bf65b595228","toSide":"left"},
+		{"id":"7c1f38af59a7554c","fromNode":"3ba03bf65b595228","fromSide":"right","toNode":"15ae100fd092fee4","toSide":"left"},
+		{"id":"cb2c7962a04783bd","fromNode":"15ae100fd092fee4","fromSide":"right","toNode":"f463d504eed36b5a","toSide":"left"},
+		{"id":"2875541fc30cf1b4","fromNode":"f463d504eed36b5a","fromSide":"right","toNode":"34bcdd72864fbd3b","toSide":"left"},
+		{"id":"01135ea1de975092","fromNode":"34bcdd72864fbd3b","fromSide":"right","toNode":"8e6cc1adf9bb3a2b","toSide":"left"},
+		{"id":"4c17a2ae87d80e3d","fromNode":"8e6cc1adf9bb3a2b","fromSide":"bottom","toNode":"078386aadb9b044a","toSide":"top"},
+		{"id":"79dcc2906c9fadd9","fromNode":"e63f26e71826cba6","fromSide":"bottom","toNode":"8e6cc1adf9bb3a2b","toSide":"top"},
+		{"id":"438287c45ae6609c","fromNode":"078386aadb9b044a","fromSide":"bottom","toNode":"ca124e0b79ba5ca3","toSide":"top"},
+		{"id":"bd6de983addc9583","fromNode":"f99ff16fb85774ec","fromSide":"right","toNode":"ca124e0b79ba5ca3","toSide":"left"},
+		{"id":"db9159d242708da4","fromNode":"ca124e0b79ba5ca3","fromSide":"bottom","toNode":"11b7d3a2d6f13263","toSide":"top"},
+		{"id":"03d539d6b7632151","fromNode":"11b7d3a2d6f13263","fromSide":"bottom","toNode":"ade14bdd746468ab","toSide":"top"},
+		{"id":"79306ccfe185bc18","fromNode":"dee8f8b479dcf346","fromSide":"left","toNode":"ca124e0b79ba5ca3","toSide":"right"}
+	]
+}
