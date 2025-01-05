@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"08f31e307370e4d2","x":2813,"y":1995,"width":250,"height":60,"type":"text","text":""},
 		{"id":"e4bd7320f54773f7","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_46_53_f5.png","x":40,"y":-320,"width":400,"height":400},
 		{"id":"7964a04ca197ecf2","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_50_05_f5f6.png","x":485,"y":-320,"width":400,"height":400},
 		{"id":"3ba03bf65b595228","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_50_09_f5f6e6.png","x":930,"y":-320,"width":400,"height":400},
@@ -16,7 +17,7 @@
 		{"id":"233c01f6f9ac2632","type":"text","text":"白棋D3翻动E4，防止黑棋C6，同时控住C线，削弱黑棋G6导致的二子控线","x":2785,"y":1220,"width":250,"height":100},
 		{"id":"ade14bdd746468ab","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001611.png","x":2710,"y":1880,"width":400,"height":400},
 		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/对手边界的凝聚手不是好棋.md","x":3220,"y":780,"width":400,"height":400},
-		{"id":"ec22f0285d266ca2","x":2785,"y":1780,"width":250,"height":60,"type":"text","text":"黑棋E3，继续争取C6的控制权"}
+		{"id":"ec22f0285d266ca2","type":"text","text":"黑棋E3，继续争取C6的控制权","x":2785,"y":1780,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},
