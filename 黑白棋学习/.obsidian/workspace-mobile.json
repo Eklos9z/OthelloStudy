@@ -11,17 +11,10 @@
             "id": "7667c09b732650de",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas",
-                "viewState": {
-                  "x": 3232.3771720632853,
-                  "y": 1823.318955700756,
-                  "zoom": -1.3241531764850893
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "bat(f5f6e6d6e7g5c5系)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -147,8 +140,7 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "7667c09b732650de",
