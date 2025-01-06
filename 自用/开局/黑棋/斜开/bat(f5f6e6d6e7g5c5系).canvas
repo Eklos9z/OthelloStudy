@@ -18,15 +18,17 @@
 		{"id":"ec22f0285d266ca2","type":"text","text":"黑棋E3，继续争取C6的控制权","x":2785,"y":1780,"width":250,"height":60},
 		{"id":"08f31e307370e4d2","type":"text","text":"后续白棋有两个选择\n1. E2，翻转E4控线，不让黑棋下入C6。\n2. C6，直接填下C6结束争端。","x":2400,"y":2020,"width":250,"height":160},
 		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/对手边界的凝聚手不是好棋.md","x":2000,"y":1020,"width":400,"height":400},
-		{"id":"a28cbbdbe390231a","x":3340,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150046.png"},
-		{"id":"e451ba77019b5315","x":3160,"y":2050,"width":130,"height":60,"type":"text","text":"E2分支"},
-		{"id":"bec24c9e01d5dbb9","x":3420,"y":2320,"width":285,"height":60,"type":"text","text":"黑棋G6，翻动E6，意图进攻C4"},
-		{"id":"10a93b9c0caaba38","x":3860,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150321.png"},
-		{"id":"d4de90d27883500f","x":3935,"y":2320,"width":250,"height":60,"type":"text","text":"白棋C4，提前下入"},
-		{"id":"8e4af40e76ace608","x":4400,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150634.png"},
-		{"id":"678d705896bfe62f","x":4475,"y":2320,"width":250,"height":60,"type":"text","text":"黑棋H5，意图进攻F3"},
-		{"id":"18b942990a2504be","x":4940,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106151053.png"},
-		{"id":"4e2ed58a4c42e0e3","x":5015,"y":2320,"width":250,"height":100,"type":"text","text":"白棋G4破坏黑棋F2的好棋，使黑棋F2多翻动了两个方向"}
+		{"id":"a28cbbdbe390231a","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150046.png","x":3340,"y":1880,"width":400,"height":400},
+		{"id":"e451ba77019b5315","type":"text","text":"E2分支","x":3160,"y":2050,"width":130,"height":60},
+		{"id":"bec24c9e01d5dbb9","type":"text","text":"黑棋G6，翻动E6，意图进攻C4","x":3420,"y":2320,"width":285,"height":60},
+		{"id":"10a93b9c0caaba38","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150321.png","x":3860,"y":1880,"width":400,"height":400},
+		{"id":"d4de90d27883500f","type":"text","text":"白棋C4，提前下入","x":3935,"y":2320,"width":250,"height":60},
+		{"id":"8e4af40e76ace608","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150634.png","x":4400,"y":1880,"width":400,"height":400},
+		{"id":"678d705896bfe62f","type":"text","text":"黑棋H5，意图进攻F3","x":4475,"y":2320,"width":250,"height":60},
+		{"id":"18b942990a2504be","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106151053.png","x":4940,"y":1880,"width":400,"height":400},
+		{"id":"4e2ed58a4c42e0e3","type":"text","text":"白棋G4破坏黑棋F2的好棋，使黑棋F2多翻动了两个方向","x":5015,"y":2320,"width":250,"height":100},
+		{"id":"366effd356000571","x":5440,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106154219.png"},
+		{"id":"81cc7f0b240a8c0e","x":5515,"y":2340,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},
@@ -50,6 +52,7 @@
 		{"id":"279dc4c3c77ba436","fromNode":"10a93b9c0caaba38","fromSide":"right","toNode":"8e4af40e76ace608","toSide":"left"},
 		{"id":"c3ceb1f7e70ca872","fromNode":"8e4af40e76ace608","fromSide":"right","toNode":"18b942990a2504be","toSide":"left"},
 		{"id":"f74fd5a7431732ef","fromNode":"4e2ed58a4c42e0e3","fromSide":"top","toNode":"18b942990a2504be","toSide":"bottom"},
-		{"id":"3438c0687cf89ffa","fromNode":"678d705896bfe62f","fromSide":"top","toNode":"8e4af40e76ace608","toSide":"bottom"}
+		{"id":"3438c0687cf89ffa","fromNode":"678d705896bfe62f","fromSide":"top","toNode":"8e4af40e76ace608","toSide":"bottom"},
+		{"id":"150d29e96bf9c120","fromNode":"18b942990a2504be","fromSide":"right","toNode":"366effd356000571","toSide":"left"}
 	]
 }

@@ -15,9 +15,9 @@
               "state": {
                 "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas",
                 "viewState": {
-                  "x": 2690,
-                  "y": 920,
-                  "zoom": -2.685912928041624
+                  "x": 5399.704387817091,
+                  "y": 2098.2046378332025,
+                  "zoom": -0.2414685801934322
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,80 +80,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4dd8cdebfdbe5ba2",
     "type": "split",
-    "children": [
-      {
-        "id": "1f79a88cad96d044",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfa8325a0c7dba72",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "bat(f5f6e6d6e7g5c5系) 的反向链接列表"
-            }
-          },
-          {
-            "id": "f5209d1b9657d7b1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "bat(f5f6e6d6e7g5c5系) 的出链列表"
-            }
-          },
-          {
-            "id": "d578c3097642b849",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "0c80d83566d55815",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas"
-              },
-              "icon": "lucide-list",
-              "title": "bat(f5f6e6d6e7g5c5系) 的大纲"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +104,7 @@
   },
   "active": "9650543209deaaa4",
   "lastOpenFiles": [
+    "开局/黑棋/斜开/picture/Pasted image 20250106154219.png",
     "中盘/主动选择让对手代价更大的交换.md",
     "中盘/picture/Pasted image 20250106151929.png",
     "中盘/提前确认交换的优先级.md",
