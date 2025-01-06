@@ -15,9 +15,18 @@
 		{"id":"11b7d3a2d6f13263","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001634.png","x":2710,"y":1360,"width":400,"height":400},
 		{"id":"233c01f6f9ac2632","type":"text","text":"白棋D3翻动E4，防止黑棋C6，同时控住C线，削弱黑棋G6导致的二子控线","x":2785,"y":1220,"width":250,"height":100},
 		{"id":"ade14bdd746468ab","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001611.png","x":2710,"y":1880,"width":400,"height":400},
-		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/对手边界的凝聚手不是好棋.md","x":3220,"y":780,"width":400,"height":400},
 		{"id":"ec22f0285d266ca2","type":"text","text":"黑棋E3，继续争取C6的控制权","x":2785,"y":1780,"width":250,"height":60},
-		{"id":"08f31e307370e4d2","x":3140,"y":2020,"width":250,"height":160,"type":"text","text":"后续白棋有两个选择\n1. E2，以翻转E4控线为思路。\n2. C6，抢下C6"}
+		{"id":"08f31e307370e4d2","type":"text","text":"后续白棋有两个选择\n1. E2，翻转E4控线，不让黑棋下入C6。\n2. C6，直接填下C6结束争端。","x":2400,"y":2020,"width":250,"height":160},
+		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/对手边界的凝聚手不是好棋.md","x":2000,"y":1020,"width":400,"height":400},
+		{"id":"a28cbbdbe390231a","x":3340,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150046.png"},
+		{"id":"e451ba77019b5315","x":3160,"y":2050,"width":130,"height":60,"type":"text","text":"E2分支"},
+		{"id":"bec24c9e01d5dbb9","x":3420,"y":2320,"width":285,"height":60,"type":"text","text":"黑棋G6，翻动E6，意图进攻C4"},
+		{"id":"10a93b9c0caaba38","x":3860,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150321.png"},
+		{"id":"d4de90d27883500f","x":3935,"y":2320,"width":250,"height":60,"type":"text","text":"白棋C4，提前下入"},
+		{"id":"8e4af40e76ace608","x":4400,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150634.png"},
+		{"id":"678d705896bfe62f","x":4475,"y":2320,"width":250,"height":60,"type":"text","text":"黑棋H5，意图进攻F3"},
+		{"id":"18b942990a2504be","x":4940,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106151053.png"},
+		{"id":"4e2ed58a4c42e0e3","x":5015,"y":2320,"width":250,"height":100,"type":"text","text":"白棋G4破坏黑棋F2的好棋，使黑棋F2多翻动了两个方向"}
 	],
 	"edges":[
 		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},
@@ -32,6 +41,15 @@
 		{"id":"bd6de983addc9583","fromNode":"f99ff16fb85774ec","fromSide":"right","toNode":"ca124e0b79ba5ca3","toSide":"left"},
 		{"id":"db9159d242708da4","fromNode":"ca124e0b79ba5ca3","fromSide":"bottom","toNode":"11b7d3a2d6f13263","toSide":"top"},
 		{"id":"03d539d6b7632151","fromNode":"11b7d3a2d6f13263","fromSide":"bottom","toNode":"ade14bdd746468ab","toSide":"top"},
-		{"id":"79306ccfe185bc18","fromNode":"dee8f8b479dcf346","fromSide":"left","toNode":"ca124e0b79ba5ca3","toSide":"right"}
+		{"id":"7d3abbfbc1fdcc5b","fromNode":"08f31e307370e4d2","fromSide":"right","toNode":"ade14bdd746468ab","toSide":"left"},
+		{"id":"6bb24629fd1f00fe","fromNode":"dee8f8b479dcf346","fromSide":"right","toNode":"ca124e0b79ba5ca3","toSide":"left"},
+		{"id":"fe8dd8e442d84eab","fromNode":"ade14bdd746468ab","fromSide":"right","toNode":"a28cbbdbe390231a","toSide":"left"},
+		{"id":"65611c413a808283","fromNode":"bec24c9e01d5dbb9","fromSide":"top","toNode":"a28cbbdbe390231a","toSide":"bottom"},
+		{"id":"c21e3f4e26869c32","fromNode":"a28cbbdbe390231a","fromSide":"right","toNode":"10a93b9c0caaba38","toSide":"left"},
+		{"id":"122538db78ce1712","fromNode":"d4de90d27883500f","fromSide":"top","toNode":"10a93b9c0caaba38","toSide":"bottom"},
+		{"id":"279dc4c3c77ba436","fromNode":"10a93b9c0caaba38","fromSide":"right","toNode":"8e4af40e76ace608","toSide":"left"},
+		{"id":"c3ceb1f7e70ca872","fromNode":"8e4af40e76ace608","fromSide":"right","toNode":"18b942990a2504be","toSide":"left"},
+		{"id":"f74fd5a7431732ef","fromNode":"4e2ed58a4c42e0e3","fromSide":"top","toNode":"18b942990a2504be","toSide":"bottom"},
+		{"id":"3438c0687cf89ffa","fromNode":"678d705896bfe62f","fromSide":"top","toNode":"8e4af40e76ace608","toSide":"bottom"}
 	]
 }
