@@ -17,7 +17,7 @@
 		{"id":"ade14bdd746468ab","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001611.png","x":2710,"y":1880,"width":400,"height":400},
 		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/对手边界的凝聚手不是好棋.md","x":3220,"y":780,"width":400,"height":400},
 		{"id":"ec22f0285d266ca2","type":"text","text":"黑棋E3，继续争取C6的控制权","x":2785,"y":1780,"width":250,"height":60},
-		{"id":"08f31e307370e4d2","x":3140,"y":2020,"width":250,"height":60,"type":"text","text":"后续白棋有两个选择\n1. E2，以翻转E4控线为思路。\n2. C6，抢下C6"}
+		{"id":"08f31e307370e4d2","type":"text","text":"后续白棋有两个选择\n1. E2，以翻转E4控线为思路。\n2. C6，抢下C6","x":3140,"y":2020,"width":260,"height":180}
 	],
 	"edges":[
 		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},

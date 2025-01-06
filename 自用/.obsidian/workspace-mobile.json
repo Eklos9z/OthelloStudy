@@ -11,10 +11,17 @@
             "id": "f5fad1498ad52062",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "canvas",
+              "state": {
+                "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas",
+                "viewState": {
+                  "x": 3076.806972376067,
+                  "y": 1797.0613615986592,
+                  "zoom": -0.9542780613694708
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "bat(f5f6e6d6e7g5c5系)"
             }
           }
         ]
@@ -91,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,13 +130,25 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "开局/黑棋/斜开/bat(f5f6e6d6e7g5c5系).canvas"
+          },
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "5b1f0d3f18d7ba89",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -136,7 +157,8 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f5fad1498ad52062",
