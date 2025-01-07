@@ -15,9 +15,9 @@
               "state": {
                 "file": "开局/白棋/虎系开局/No-kung.canvas",
                 "viewState": {
-                  "x": 3171.2033737378088,
-                  "y": 259.09037665816015,
-                  "zoom": 0.27699850874081733
+                  "x": 3404.773628075194,
+                  "y": 102.87358665787526,
+                  "zoom": -0.9452236651832786
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -178,6 +178,7 @@
   },
   "active": "5ca265ef90404ef5",
   "lastOpenFiles": [
+    "开局/白棋/虎系开局/picture/Pasted image 20250107175926.png",
     "开局/白棋/虎系开局/No-kung.canvas",
     "开局/白棋/虎系开局/picture/Pasted image 20250107175144.png",
     "开局/白棋/虎系开局/picture/Pasted image 20250107175138.png",
