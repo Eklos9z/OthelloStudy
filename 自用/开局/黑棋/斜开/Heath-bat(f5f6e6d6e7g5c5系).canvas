@@ -8,7 +8,6 @@
 		{"id":"34bcdd72864fbd3b","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_55_16_f5f6e6d6e7g5.png","x":2265,"y":-320,"width":400,"height":400},
 		{"id":"8e6cc1adf9bb3a2b","type":"file","file":"开局/黑棋/斜开/picture/2025_01_05_23_55_17_f5f6e6d6e7g5c5.png","x":2710,"y":-320,"width":400,"height":400},
 		{"id":"078386aadb9b044a","type":"file","file":"开局/黑棋/斜开/picture/2025_01_06_00_11_16_f5f6e6d6e7g5c5f7.png","x":2710,"y":280,"width":400,"height":400},
-		{"id":"e63f26e71826cba6","type":"text","text":"对手有两个选择\n1. C6中割，翻动D7，破坏黑棋F4\n2. F7一子返","x":2785,"y":-580,"width":250,"height":140},
 		{"id":"f99ff16fb85774ec","type":"text","text":"对手没有影响黑棋F4\n故黑棋F4是好棋","x":2400,"y":920,"width":250,"height":60},
 		{"id":"e51798db265ed0dc","type":"text","text":"F7分支","x":2850,"y":160,"width":121,"height":60},
 		{"id":"ca124e0b79ba5ca3","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001333.png","x":2710,"y":780,"width":400,"height":400},
@@ -27,8 +26,9 @@
 		{"id":"678d705896bfe62f","type":"text","text":"黑棋H5，意图进攻F3","x":4475,"y":2320,"width":250,"height":60},
 		{"id":"18b942990a2504be","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106151053.png","x":4940,"y":1880,"width":400,"height":400},
 		{"id":"4e2ed58a4c42e0e3","type":"text","text":"白棋G4破坏黑棋F2的好棋，使黑棋F2多翻动了两个方向","x":5015,"y":2320,"width":250,"height":100},
-		{"id":"366effd356000571","x":5440,"y":1880,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106154219.png"},
-		{"id":"81cc7f0b240a8c0e","x":5515,"y":2340,"width":250,"height":60,"type":"text","text":""}
+		{"id":"366effd356000571","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106154219.png","x":5440,"y":1880,"width":400,"height":400},
+		{"id":"e63f26e71826cba6","type":"text","text":"对手有两个选择\n1. C6中割，翻动D7，破坏黑棋F4\n2. F7一子返","x":2785,"y":-500,"width":250,"height":140},
+		{"id":"58097c84844df2ec","x":1450,"y":120,"width":250,"height":140,"type":"text","text":"靠近边的是Heath,E7f4为-2\n原理边的是Cow,C5f4为0"}
 	],
 	"edges":[
 		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},
@@ -53,6 +53,7 @@
 		{"id":"c3ceb1f7e70ca872","fromNode":"8e4af40e76ace608","fromSide":"right","toNode":"18b942990a2504be","toSide":"left"},
 		{"id":"f74fd5a7431732ef","fromNode":"4e2ed58a4c42e0e3","fromSide":"top","toNode":"18b942990a2504be","toSide":"bottom"},
 		{"id":"3438c0687cf89ffa","fromNode":"678d705896bfe62f","fromSide":"top","toNode":"8e4af40e76ace608","toSide":"bottom"},
-		{"id":"150d29e96bf9c120","fromNode":"18b942990a2504be","fromSide":"right","toNode":"366effd356000571","toSide":"left"}
+		{"id":"150d29e96bf9c120","fromNode":"18b942990a2504be","fromSide":"right","toNode":"366effd356000571","toSide":"left"},
+		{"id":"c1cb45235af98991","fromNode":"58097c84844df2ec","fromSide":"top","toNode":"15ae100fd092fee4","toSide":"bottom"}
 	]
 }

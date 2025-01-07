@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"80c8e99783789785","type":"file","file":"开局/白棋/picture/Pasted image 20250107154500.png","x":-460,"y":-160,"width":400,"height":400},
+		{"id":"ffb59b4d6bdd4846","x":60,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/picture/Pasted image 20250107154522.png"},
+		{"id":"17bc106239ced519","x":580,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107163151.png"}
+	],
+	"edges":[
+		{"id":"51141a634fb457ac","fromNode":"80c8e99783789785","fromSide":"right","toNode":"ffb59b4d6bdd4846","toSide":"left"},
+		{"id":"b15b2eca9cd2e35f","fromNode":"ffb59b4d6bdd4846","fromSide":"right","toNode":"17bc106239ced519","toSide":"left"}
+	]
+}
