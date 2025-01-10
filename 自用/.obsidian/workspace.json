@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "开局/白棋/虎系开局/未命名.canvas",
+                "file": "开局/白棋/虎系开局/No-kung.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 2.4374722861657574,
+                  "y": 102.87358665787526,
+                  "zoom": -0.9452236651832786
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "No-kung"
             }
           }
         ]
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开局/白棋/虎系开局/未命名.canvas"
+                "file": "开局/白棋/虎系开局/No-kung.canvas"
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "No-kung 的大纲"
             }
           },
           {
@@ -176,10 +176,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5ca265ef90404ef5",
+  "active": "8fd618768fd7ac25",
   "lastOpenFiles": [
+    "开局/白棋/-2垂直开",
+    "开局/白棋/虎系开局/-2垂直开.canvas",
     "开局/白棋/虎系开局/No-kung.canvas",
-    "开局/白棋/虎系开局/未命名.canvas",
     "开局/白棋/虎系开局/未命名.md",
     "开局/白棋/虎系开局/picture/Pasted image 20250107175926.png",
     "开局/白棋/虎系开局/picture/Pasted image 20250107175144.png",
