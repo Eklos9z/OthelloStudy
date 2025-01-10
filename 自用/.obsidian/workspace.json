@@ -11,17 +11,14 @@
             "id": "5ca265ef90404ef5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas",
-                "viewState": {
-                  "x": 251.07589321254284,
-                  "y": 275.4405601679435,
-                  "zoom": -1.4444443478481919
-                }
+                "file": "中盘/AC手筋.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Bhagat(-6)(f5d6c5f4e3c6d7)"
+              "icon": "lucide-file",
+              "title": "AC手筋"
             }
           }
         ]
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas"
+                "file": "中盘/AC手筋.md"
               },
               "icon": "lucide-list",
-              "title": "Bhagat(-6)(f5d6c5f4e3c6d7) 的大纲"
+              "title": "AC手筋 的大纲"
             }
           }
         ],
@@ -168,6 +165,9 @@
   },
   "active": "5ca265ef90404ef5",
   "lastOpenFiles": [
+    "中盘/picture/Pasted image 20250110210058.png",
+    "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas",
+    "中盘/AC手筋.md",
     "开局/白棋/-2垂直开/picture/Pasted image 20250110204302.png",
     "开局/白棋/-2垂直开/picture/Pasted image 20250110204143.png",
     "开局/白棋/-2垂直开/picture/Pasted image 20250110203932.png",
@@ -178,10 +178,8 @@
     "开局/白棋/-2垂直开/picture/Pasted image 20250110202457.png",
     "开局/白棋/-2垂直开/picture/Pasted image 20250110202450.png",
     "开局/白棋/-2垂直开/picture/Pasted image 20250110202442.png",
-    "开局/白棋/-2垂直开/picture/Pasted image 20250110202433.png",
     "开局/白棋/-2垂直开/picture",
     "开局/白棋/虎系开局/No-kung.canvas",
-    "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas",
     "开局/白棋/-2垂直开",
     "开局/白棋/虎系开局/-2垂直开.canvas",
     "开局/白棋/虎系开局/未命名.md",
