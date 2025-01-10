@@ -16,7 +16,7 @@
 		{"id":"ade14bdd746468ab","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106001611.png","x":2710,"y":1880,"width":400,"height":400},
 		{"id":"ec22f0285d266ca2","type":"text","text":"黑棋E3，继续争取C6的控制权","x":2785,"y":1780,"width":250,"height":60},
 		{"id":"08f31e307370e4d2","type":"text","text":"后续白棋有两个选择\n1. E2，翻转E4控线，不让黑棋下入C6。\n2. C6，直接填下C6结束争端。","x":2400,"y":2020,"width":250,"height":160},
-		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/对手边界的凝聚手不是好棋.md","x":2000,"y":1020,"width":400,"height":400},
+		{"id":"dee8f8b479dcf346","type":"file","file":"中盘/边界的凝聚手不是好棋.md","x":2000,"y":1020,"width":400,"height":400},
 		{"id":"a28cbbdbe390231a","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106150046.png","x":3340,"y":1880,"width":400,"height":400},
 		{"id":"e451ba77019b5315","type":"text","text":"E2分支","x":3160,"y":2050,"width":130,"height":60},
 		{"id":"bec24c9e01d5dbb9","type":"text","text":"黑棋G6，翻动E6，意图进攻C4","x":3420,"y":2320,"width":285,"height":60},
