@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas"
+                "file": "开局/白棋/-2垂直开/picture/Pasted image 20250110202332.png"
               },
               "icon": "lucide-list",
-              "title": "Bhagat(-6)(f5d6c5f4e3c6d7) 的大纲"
+              "title": "Pasted image 20250110202332 的大纲"
             }
           },
           {
@@ -176,8 +176,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8fd618768fd7ac25",
+  "active": "5ca265ef90404ef5",
   "lastOpenFiles": [
+    "开局/白棋/-2垂直开/picture/Pasted image 20250110202332.png",
+    "开局/白棋/-2垂直开/picture",
     "开局/白棋/虎系开局/No-kung.canvas",
     "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas",
     "开局/白棋/-2垂直开",
@@ -206,7 +208,6 @@
     "开局/黑棋/斜开/picture",
     "欢迎.md",
     "开局/黑棋/垂直开",
-    "开局/黑棋/斜开",
-    "开局/白棋"
+    "开局/黑棋/斜开"
   ]
 }
