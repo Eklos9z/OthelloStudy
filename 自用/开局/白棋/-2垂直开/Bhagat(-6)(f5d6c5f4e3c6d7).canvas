@@ -9,7 +9,10 @@
 		{"id":"0630ec59726b2eca","x":2760,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202450.png"},
 		{"id":"ea4ac8b68d23fddb","x":3320,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202457.png"},
 		{"id":"eba5ed41fc582ca9","x":3880,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202506.png"},
-		{"id":"c3e1ea6db494e9fc","x":3395,"y":300,"width":250,"height":60,"type":"text","text":"横切凝聚，同时酝酿D3"}
+		{"id":"c3e1ea6db494e9fc","x":3395,"y":300,"width":250,"height":60,"type":"text","text":"横切凝聚，同时酝酿D3"},
+		{"id":"eeb87f670a194a6d","x":3948,"y":301,"width":250,"height":60,"type":"text","text":"黑棋F6凝聚"},
+		{"id":"2be4acd36a18e8f7","x":4440,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110203505.png"},
+		{"id":"f4334f25b5ba0156","x":4515,"y":301,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"e44f8d44d75cd43d","fromNode":"b83849d91d31f10b","fromSide":"right","toNode":"926643c8c2f8ba40","toSide":"left"},
@@ -19,6 +22,7 @@
 		{"id":"cb739c68ccb52be2","fromNode":"6b7d2cff94c98395","fromSide":"right","toNode":"3e37864fdf2fc66f","toSide":"left"},
 		{"id":"ccb5e9211e090b6d","fromNode":"3e37864fdf2fc66f","fromSide":"right","toNode":"0630ec59726b2eca","toSide":"left"},
 		{"id":"fc705e5cdee67ebd","fromNode":"0630ec59726b2eca","fromSide":"right","toNode":"ea4ac8b68d23fddb","toSide":"left"},
-		{"id":"10fa9e115333b6aa","fromNode":"ea4ac8b68d23fddb","fromSide":"right","toNode":"eba5ed41fc582ca9","toSide":"left"}
+		{"id":"10fa9e115333b6aa","fromNode":"ea4ac8b68d23fddb","fromSide":"right","toNode":"eba5ed41fc582ca9","toSide":"left"},
+		{"id":"3e3fe0471aea603c","fromNode":"eba5ed41fc582ca9","fromSide":"right","toNode":"2be4acd36a18e8f7","toSide":"left"}
 	]
 }
