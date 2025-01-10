@@ -15,9 +15,9 @@
               "state": {
                 "file": "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas",
                 "viewState": {
-                  "x": 7084.962737657643,
+                  "x": 251.07589321254284,
                   "y": 275.4405601679435,
-                  "zoom": -0.22222217392409593
+                  "zoom": -1.4444443478481919
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4dd8cdebfdbe5ba2",
@@ -147,16 +146,6 @@
               },
               "icon": "lucide-list",
               "title": "Bhagat(-6)(f5d6c5f4e3c6d7) 的大纲"
-            }
-          },
-          {
-            "id": "006b0f02217a4860",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           }
         ],
