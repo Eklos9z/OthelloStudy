@@ -9,7 +9,7 @@
 		{"id":"0630ec59726b2eca","x":2760,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202450.png"},
 		{"id":"ea4ac8b68d23fddb","x":3320,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202457.png"},
 		{"id":"eba5ed41fc582ca9","x":3880,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202506.png"},
-		{"id":"c3e1ea6db494e9fc","x":3395,"y":300,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c3e1ea6db494e9fc","x":3395,"y":300,"width":250,"height":60,"type":"text","text":"横切凝聚，同时酝酿D3"}
 	],
 	"edges":[
 		{"id":"e44f8d44d75cd43d","fromNode":"b83849d91d31f10b","fromSide":"right","toNode":"926643c8c2f8ba40","toSide":"left"},
