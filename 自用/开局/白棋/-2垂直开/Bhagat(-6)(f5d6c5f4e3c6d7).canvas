@@ -11,13 +11,15 @@
 		{"id":"eba5ed41fc582ca9","x":3880,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202506.png"},
 		{"id":"2be4acd36a18e8f7","x":4440,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110203505.png"},
 		{"id":"430dba5e647a366b","x":4980,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110203758.png"},
-		{"id":"9d7ae8859e203d9a","x":6020,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110203838.png"},
 		{"id":"f4334f25b5ba0156","x":5082,"y":341,"width":250,"height":60,"type":"text","text":"D3中割凝聚，同时做D5E6二子控线"},
 		{"id":"eeb87f670a194a6d","x":4515,"y":341,"width":250,"height":60,"type":"text","text":"黑棋F6凝聚"},
 		{"id":"c3e1ea6db494e9fc","x":3955,"y":341,"width":250,"height":60,"type":"text","text":"横切凝聚，同时酝酿D3"},
 		{"id":"e838d7ef92ba9ec7","x":5540,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110203932.png"},
 		{"id":"8bf21847a43091e3","x":5615,"y":341,"width":250,"height":60,"type":"text","text":"黑棋一子返筑墙"},
-		{"id":"02a6e96c9c40a76b","x":6080,"y":312,"width":320,"height":119,"type":"text","text":"白棋同样一子返，同时因为保留了D7的行动力，所以即使黑棋C3，也不会主动破墙"}
+		{"id":"e3b13dfc3fd40f4f","x":6600,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110204143.png"},
+		{"id":"9d7ae8859e203d9a","x":6060,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110203838.png"},
+		{"id":"02a6e96c9c40a76b","x":6100,"y":312,"width":320,"height":119,"type":"text","text":"白棋同样一子返，同时因为保留了D7的行动力，所以即使黑棋C3，也不会主动破墙"},
+		{"id":"35ae322235aaa34d","x":6675,"y":342,"width":250,"height":60,"type":"text","text":"黑棋E7扩大墙体"}
 	],
 	"edges":[
 		{"id":"e44f8d44d75cd43d","fromNode":"b83849d91d31f10b","fromSide":"right","toNode":"926643c8c2f8ba40","toSide":"left"},
@@ -31,6 +33,7 @@
 		{"id":"3e3fe0471aea603c","fromNode":"eba5ed41fc582ca9","fromSide":"right","toNode":"2be4acd36a18e8f7","toSide":"left"},
 		{"id":"4f7d8a41b028930d","fromNode":"2be4acd36a18e8f7","fromSide":"right","toNode":"430dba5e647a366b","toSide":"left"},
 		{"id":"e6670f0bbaa7f85c","fromNode":"430dba5e647a366b","fromSide":"right","toNode":"e838d7ef92ba9ec7","toSide":"left"},
-		{"id":"8c952899a003ef4a","fromNode":"e838d7ef92ba9ec7","fromSide":"right","toNode":"9d7ae8859e203d9a","toSide":"left"}
+		{"id":"8c952899a003ef4a","fromNode":"e838d7ef92ba9ec7","fromSide":"right","toNode":"9d7ae8859e203d9a","toSide":"left"},
+		{"id":"607403d799fbb247","fromNode":"9d7ae8859e203d9a","fromSide":"right","toNode":"e3b13dfc3fd40f4f","toSide":"left"}
 	]
 }
