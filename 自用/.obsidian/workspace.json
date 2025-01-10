@@ -15,9 +15,9 @@
               "state": {
                 "file": "开局/白棋/-2垂直开/Bhagat(-6)(f5d6c5f4e3c6d7).canvas",
                 "viewState": {
-                  "x": 0,
+                  "x": 1053.8975642271546,
                   "y": 0,
-                  "zoom": 0
+                  "zoom": -1.222222173924096
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4dd8cdebfdbe5ba2",
@@ -142,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "开局/白棋/-2垂直开/picture/Pasted image 20250110202332.png"
+                "file": "开局/白棋/-2垂直开/picture/Pasted image 20250110202433.png"
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250110202332 的大纲"
+              "title": "Pasted image 20250110202433 的大纲"
             }
           },
           {
@@ -178,6 +179,11 @@
   },
   "active": "5ca265ef90404ef5",
   "lastOpenFiles": [
+    "开局/白棋/-2垂直开/picture/Pasted image 20250110202433.png",
+    "开局/白棋/-2垂直开/picture/Pasted image 20250110202425.png",
+    "开局/白棋/-2垂直开/picture/Pasted image 20250110202416.png",
+    "开局/白棋/-2垂直开/picture/Pasted image 20250110202402.png",
+    "开局/白棋/-2垂直开/picture/Pasted image 20250110202352.png",
     "开局/白棋/-2垂直开/picture/Pasted image 20250110202332.png",
     "开局/白棋/-2垂直开/picture",
     "开局/白棋/虎系开局/No-kung.canvas",
@@ -193,16 +199,11 @@
     "开局/黑棋/斜开/Heath-bat(f5f6e6d6e7g5c5系).canvas",
     "中盘/提前确认交换的优先级.md",
     "中盘/对手边界的凝聚手不是好棋.md",
-    "开局/白棋/虎系开局/picture/Pasted image 20250107163151.png",
     "开局/白棋/虎系开局/picture",
-    "开局/白棋/picture/Pasted image 20250107154522.png",
-    "开局/白棋/picture/Pasted image 20250107154516.png",
-    "开局/白棋/picture/Pasted image 20250107154500.png",
     "开局/白棋/picture",
     "开局/白棋/猫系开局",
     "开局/白棋/虎系开局",
     "开局/白棋/未命名.md",
-    "开局/黑棋/斜开/picture/Pasted image 20250106154219.png",
     "中盘/主动选择让对手代价更大的交换.md",
     "中盘/picture",
     "开局/黑棋/斜开/picture",

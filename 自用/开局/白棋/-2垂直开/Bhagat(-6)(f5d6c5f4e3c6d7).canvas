@@ -1,6 +1,14 @@
 {
 	"nodes":[
-		{"id":"b83849d91d31f10b","x":-360,"y":-140,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202332.png"}
+		{"id":"b83849d91d31f10b","type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202332.png","x":-460,"y":-160,"width":400,"height":400},
+		{"id":"926643c8c2f8ba40","x":40,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202402.png"},
+		{"id":"2d585aeb08cf9ba1","x":560,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202416.png"},
+		{"id":"77d9eb3fbf3767fb","x":1120,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202425.png"},
+		{"id":"6b7d2cff94c98395","x":1720,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202433.png"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e44f8d44d75cd43d","fromNode":"b83849d91d31f10b","fromSide":"right","toNode":"926643c8c2f8ba40","toSide":"left"},
+		{"id":"1884aac1f1830c1c","fromNode":"926643c8c2f8ba40","fromSide":"right","toNode":"2d585aeb08cf9ba1","toSide":"left"},
+		{"id":"7d8740f0e2c6a255","fromNode":"2d585aeb08cf9ba1","fromSide":"right","toNode":"77d9eb3fbf3767fb","toSide":"left"}
+	]
 }
