@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"6598e462dc2a3e6b","type":"file","file":"开局/白棋/picture/Pasted image 20250107154500.png","x":-1300,"y":-200,"width":400,"height":400},
+		{"id":"a66c0c1af5c0c883","type":"file","file":"开局/白棋/picture/Pasted image 20250107154522.png","x":-780,"y":-200,"width":400,"height":400},
+		{"id":"0ff95be5cfb0a465","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107163151.png","x":-260,"y":-200,"width":400,"height":400},
+		{"id":"0e5dcde581d730f7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107175121.png","x":320,"y":-200,"width":400,"height":400},
+		{"id":"3c7c15c145222caa","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107175128.png","x":900,"y":-200,"width":400,"height":400},
+		{"id":"c9dc7cc7386c3279","x":1520,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140014.png"},
+		{"id":"97856799acee1487","x":2160,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140022.png"},
+		{"id":"77eb2bcbe557dbd2","x":2800,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140029.png"},
+		{"id":"4d6ff4b88d513493","x":3440,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140037.png"},
+		{"id":"11940e7185d9762f","x":4080,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140050.png"},
+		{"id":"38b19c3db224e174","x":4760,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140058.png"}
+	],
+	"edges":[
+		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
+		{"id":"02cac0ca0b20158e","fromNode":"a66c0c1af5c0c883","fromSide":"right","toNode":"0ff95be5cfb0a465","toSide":"left"},
+		{"id":"976b5fdf33d2e8e9","fromNode":"0ff95be5cfb0a465","fromSide":"right","toNode":"0e5dcde581d730f7","toSide":"left"},
+		{"id":"3552e08bb24c3a78","fromNode":"0e5dcde581d730f7","fromSide":"right","toNode":"3c7c15c145222caa","toSide":"left"},
+		{"id":"9fa4d319ba1f909b","fromNode":"3c7c15c145222caa","fromSide":"right","toNode":"c9dc7cc7386c3279","toSide":"left"},
+		{"id":"4acbdb2861bc31f0","fromNode":"c9dc7cc7386c3279","fromSide":"right","toNode":"97856799acee1487","toSide":"left"},
+		{"id":"43e9171cb2807c75","fromNode":"97856799acee1487","fromSide":"right","toNode":"77eb2bcbe557dbd2","toSide":"left"},
+		{"id":"8319740e05356203","fromNode":"77eb2bcbe557dbd2","fromSide":"right","toNode":"4d6ff4b88d513493","toSide":"left"},
+		{"id":"0ca2ced6872a5d2a","fromNode":"4d6ff4b88d513493","fromSide":"right","toNode":"11940e7185d9762f","toSide":"left"},
+		{"id":"e4d026843a8d19eb","fromNode":"11940e7185d9762f","fromSide":"right","toNode":"38b19c3db224e174","toSide":"left"}
+	]
+}
