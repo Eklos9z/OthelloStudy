@@ -11,10 +11,11 @@
 		{"id":"535c8b8791871764","x":3720,"y":400,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134106.png"},
 		{"id":"8236544275392277","x":3068,"y":860,"width":265,"height":80,"type":"text","text":"黑棋中割，控制白棋无法进入E2"},
 		{"id":"576d114bc419c481","x":3795,"y":880,"width":250,"height":60,"type":"text","text":"白棋B4翻动C4意图进入E2，同时酝酿F5"},
-		{"id":"6bee52c394a7ba87","x":4340,"y":400,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134323.png"},
-		{"id":"ff9d7f7e6b5733c4","x":4415,"y":880,"width":250,"height":60,"type":"text","text":"黑棋F5凝聚手"},
-		{"id":"6177d17c8a6c6e1c","x":5000,"y":400,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134347.png"},
-		{"id":"96758f8cb0cfd551","x":5075,"y":880,"width":250,"height":60,"type":"text","text":"白棋E2凝聚手交换"}
+		{"id":"6177d17c8a6c6e1c","x":5200,"y":400,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134347.png"},
+		{"id":"96758f8cb0cfd551","x":5275,"y":900,"width":250,"height":60,"type":"text","text":"白棋E2凝聚手交换"},
+		{"id":"6bee52c394a7ba87","x":4540,"y":400,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134323.png"},
+		{"id":"ff9d7f7e6b5733c4","x":4615,"y":960,"width":250,"height":60,"type":"text","text":"黑棋F5凝聚手"},
+		{"id":"0099dc6e40170b74","x":4540,"y":1320,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134456.png"}
 	],
 	"edges":[
 		{"id":"36dcd02752fe9df6","fromNode":"06a195e66f0190ee","fromSide":"right","toNode":"5aa5e34f75cb70b6","toSide":"left"},
@@ -29,6 +30,8 @@
 		{"id":"aa447e135bf40740","fromNode":"576d114bc419c481","fromSide":"top","toNode":"535c8b8791871764","toSide":"bottom"},
 		{"id":"961566cc12798802","fromNode":"535c8b8791871764","fromSide":"right","toNode":"6bee52c394a7ba87","toSide":"left"},
 		{"id":"04a2c8cc509ad145","fromNode":"ff9d7f7e6b5733c4","fromSide":"top","toNode":"6bee52c394a7ba87","toSide":"bottom"},
-		{"id":"ff7c7d07ed50f358","fromNode":"96758f8cb0cfd551","fromSide":"top","toNode":"6177d17c8a6c6e1c","toSide":"bottom"}
+		{"id":"ff7c7d07ed50f358","fromNode":"96758f8cb0cfd551","fromSide":"top","toNode":"6177d17c8a6c6e1c","toSide":"bottom"},
+		{"id":"a0369c542523bcca","fromNode":"6bee52c394a7ba87","fromSide":"right","toNode":"6177d17c8a6c6e1c","toSide":"left"},
+		{"id":"117c28d8e0fc19e8","fromNode":"535c8b8791871764","fromSide":"right","toNode":"0099dc6e40170b74","toSide":"left","label":"C5(-4)分支"}
 	]
 }
