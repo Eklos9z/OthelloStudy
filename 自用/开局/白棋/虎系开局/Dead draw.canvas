@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"8236544275392277","x":3709,"y":993,"width":250,"height":60,"type":"text","text":""},
 		{"id":"06a195e66f0190ee","type":"file","file":"开局/白棋/picture/Pasted image 20250107154500.png","x":-1010,"y":-200,"width":400,"height":400},
 		{"id":"5aa5e34f75cb70b6","type":"file","file":"开局/白棋/picture/Pasted image 20250107154522.png","x":-490,"y":-200,"width":400,"height":400},
 		{"id":"c6172c1c2a483f6c","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107163151.png","x":30,"y":-200,"width":400,"height":400},
@@ -7,8 +8,8 @@
 		{"id":"85e8b00b3560db35","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107175128.png","x":1160,"y":-200,"width":400,"height":400},
 		{"id":"1f22b815683f2552","x":1800,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111133920.png"},
 		{"id":"a258d849e93d0d90","x":2480,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111133935.png"},
-		{"id":"28f9ed7ac4d3c08c","x":3080,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111133946.png"},
-		{"id":"66ca749cb4b8501b","x":3640,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134008.png"}
+		{"id":"28f9ed7ac4d3c08c","x":3000,"y":400,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111133946.png"},
+		{"id":"535c8b8791871764","x":3720,"y":400,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134106.png"}
 	],
 	"edges":[
 		{"id":"36dcd02752fe9df6","fromNode":"06a195e66f0190ee","fromSide":"right","toNode":"5aa5e34f75cb70b6","toSide":"left"},
@@ -17,6 +18,7 @@
 		{"id":"1c0b4df9d285f51f","fromNode":"1b1825446a77f756","fromSide":"right","toNode":"85e8b00b3560db35","toSide":"left"},
 		{"id":"18b0cd81284796ad","fromNode":"85e8b00b3560db35","fromSide":"right","toNode":"1f22b815683f2552","toSide":"left"},
 		{"id":"783e4b841686739c","fromNode":"1f22b815683f2552","fromSide":"right","toNode":"a258d849e93d0d90","toSide":"left"},
-		{"id":"cc62ebf9cb1a9042","fromNode":"a258d849e93d0d90","fromSide":"right","toNode":"28f9ed7ac4d3c08c","toSide":"left"}
+		{"id":"2857a530d4ce806d","fromNode":"a258d849e93d0d90","fromSide":"bottom","toNode":"28f9ed7ac4d3c08c","toSide":"left","label":"F3(-2)分支"},
+		{"id":"8de69b2cf8528521","fromNode":"28f9ed7ac4d3c08c","fromSide":"right","toNode":"535c8b8791871764","toSide":"left"}
 	]
 }
