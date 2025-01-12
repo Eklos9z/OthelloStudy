@@ -31,7 +31,7 @@
 		{"id":"ddb03e6c2ff6ad3e","x":9560,"y":1280,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141455.png"},
 		{"id":"b7ec03e0ca4bebc8","x":10280,"y":1280,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141618.png"},
 		{"id":"3bcb053a26a5eb5d","x":10960,"y":1280,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141701.png"},
-		{"id":"251432a73840c8d7","x":10946,"y":1728,"width":250,"height":60,"type":"text","text":"G4凝聚手，控线，防止对手走A4，进而ying'x"}
+		{"id":"251432a73840c8d7","x":11035,"y":1740,"width":250,"height":60,"type":"text","text":"G4凝聚手，控线，防止对手走A4吃大量内子"}
 	],
 	"edges":[
 		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
@@ -63,6 +63,7 @@
 		{"id":"740651f8002e393f","fromNode":"b43496ce9ac9fb54","fromSide":"right","toNode":"6dd670c355af8c22","toSide":"left"},
 		{"id":"a77b08eb77dd30f1","fromNode":"6dd670c355af8c22","fromSide":"right","toNode":"ddb03e6c2ff6ad3e","toSide":"left"},
 		{"id":"dc1455f07410080e","fromNode":"ddb03e6c2ff6ad3e","fromSide":"right","toNode":"b7ec03e0ca4bebc8","toSide":"left"},
-		{"id":"19b5ddfe8721a427","fromNode":"b7ec03e0ca4bebc8","fromSide":"right","toNode":"3bcb053a26a5eb5d","toSide":"left"}
+		{"id":"19b5ddfe8721a427","fromNode":"b7ec03e0ca4bebc8","fromSide":"right","toNode":"3bcb053a26a5eb5d","toSide":"left"},
+		{"id":"d077062fd522a07c","fromNode":"251432a73840c8d7","fromSide":"top","toNode":"3bcb053a26a5eb5d","toSide":"bottom"}
 	]
 }
