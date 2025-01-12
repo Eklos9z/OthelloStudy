@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a992bfa71850a27a","x":9400,"y":1278,"width":250,"height":60,"type":"text","text":""},
 		{"id":"6598e462dc2a3e6b","type":"file","file":"开局/白棋/picture/Pasted image 20250107154500.png","x":-1300,"y":-200,"width":400,"height":400},
 		{"id":"a66c0c1af5c0c883","type":"file","file":"开局/白棋/picture/Pasted image 20250107154522.png","x":-780,"y":-200,"width":400,"height":400},
 		{"id":"0ff95be5cfb0a465","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107163151.png","x":-260,"y":-200,"width":400,"height":400},
@@ -25,8 +26,9 @@
 		{"id":"f738032125aeba2c","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112140638.png","x":2160,"y":1280,"width":400,"height":400},
 		{"id":"fb1e182d2b76dbc4","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112140659.png","x":2800,"y":1280,"width":400,"height":400},
 		{"id":"a6ef2ad993c2cc3b","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140156.png","x":8560,"y":295,"width":400,"height":400},
-		{"id":"640b1282a83a0d96","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140228.png","x":9440,"y":935,"width":400,"height":400},
-		{"id":"ad4021148f45c400","type":"text","text":"诱导对手走E1","x":9515,"y":1455,"width":250,"height":50}
+		{"id":"ad4021148f45c400","type":"text","text":"诱导对手走E1","x":9355,"y":1015,"width":250,"height":50},
+		{"id":"b43496ce9ac9fb54","x":8160,"y":1360,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141249.png"},
+		{"id":"640b1282a83a0d96","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140228.png","x":9355,"y":815,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
