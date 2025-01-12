@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"a992bfa71850a27a","x":9400,"y":1278,"width":250,"height":60,"type":"text","text":""},
 		{"id":"6598e462dc2a3e6b","type":"file","file":"开局/白棋/picture/Pasted image 20250107154500.png","x":-1300,"y":-200,"width":400,"height":400},
 		{"id":"a66c0c1af5c0c883","type":"file","file":"开局/白棋/picture/Pasted image 20250107154522.png","x":-780,"y":-200,"width":400,"height":400},
 		{"id":"0ff95be5cfb0a465","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107163151.png","x":-260,"y":-200,"width":400,"height":400},
@@ -27,8 +26,9 @@
 		{"id":"fb1e182d2b76dbc4","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112140659.png","x":2800,"y":1280,"width":400,"height":400},
 		{"id":"a6ef2ad993c2cc3b","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140156.png","x":8560,"y":295,"width":400,"height":400},
 		{"id":"ad4021148f45c400","type":"text","text":"诱导对手走E1","x":9355,"y":1015,"width":250,"height":50},
-		{"id":"b43496ce9ac9fb54","x":8160,"y":1360,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141249.png"},
-		{"id":"640b1282a83a0d96","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140228.png","x":9355,"y":815,"width":400,"height":400}
+		{"id":"b43496ce9ac9fb54","x":8160,"y":1280,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141249.png"},
+		{"id":"6dd670c355af8c22","x":8840,"y":1280,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141355.png"},
+		{"id":"640b1282a83a0d96","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140228.png","x":9800,"y":665,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
@@ -46,7 +46,7 @@
 		{"id":"181df4b03330cec5","fromNode":"7ffe2c64bc2f6844","fromSide":"right","toNode":"b1e0e6f60d8ff173","toSide":"left"},
 		{"id":"af307b8e7bbb0f4e","fromNode":"b1e0e6f60d8ff173","fromSide":"right","toNode":"67ba04e646ccf576","toSide":"left"},
 		{"id":"f41994b95c8630c9","fromNode":"67ba04e646ccf576","fromSide":"right","toNode":"a6ef2ad993c2cc3b","toSide":"left","label":"*C1分支"},
-		{"id":"794eff14e0e467ff","fromNode":"a6ef2ad993c2cc3b","fromSide":"right","toNode":"640b1282a83a0d96","toSide":"left"},
+		{"id":"794eff14e0e467ff","fromNode":"a6ef2ad993c2cc3b","fromSide":"right","toNode":"640b1282a83a0d96","toSide":"left","label":"*E1分支(诱导步)"},
 		{"id":"eb96fc86bc916789","fromNode":"ad4021148f45c400","fromSide":"top","toNode":"640b1282a83a0d96","toSide":"bottom"},
 		{"id":"84c7ffb87a91c143","fromNode":"c9dc7cc7386c3279","fromSide":"right","toNode":"f738032125aeba2c","toSide":"left","label":"F6(-2)分支"},
 		{"id":"d27b6cb5ffb7d2c9","fromNode":"f738032125aeba2c","fromSide":"right","toNode":"fb1e182d2b76dbc4","toSide":"left"},
@@ -56,6 +56,8 @@
 		{"id":"4c1860e0cc5ac5fb","fromNode":"f94ab048952eb3a7","fromSide":"right","toNode":"6647ba032fa896ec","toSide":"left"},
 		{"id":"4ad5f061eed73005","fromNode":"6647ba032fa896ec","fromSide":"right","toNode":"5bba88245181e2a7","toSide":"left"},
 		{"id":"dbf5cca8da8e51df","fromNode":"5bba88245181e2a7","fromSide":"right","toNode":"1a4fd6526f7e0374","toSide":"left"},
-		{"id":"c3d20922db67c3cb","fromNode":"1a4fd6526f7e0374","fromSide":"right","toNode":"700b28bb7b8b93fb","toSide":"left"}
+		{"id":"c3d20922db67c3cb","fromNode":"1a4fd6526f7e0374","fromSide":"right","toNode":"700b28bb7b8b93fb","toSide":"left"},
+		{"id":"36c5d50d405e8b7c","fromNode":"700b28bb7b8b93fb","fromSide":"right","toNode":"b43496ce9ac9fb54","toSide":"left"},
+		{"id":"740651f8002e393f","fromNode":"b43496ce9ac9fb54","fromSide":"right","toNode":"6dd670c355af8c22","toSide":"left"}
 	]
 }
