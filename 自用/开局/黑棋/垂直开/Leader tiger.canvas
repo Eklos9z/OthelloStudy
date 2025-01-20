@@ -32,7 +32,10 @@
 		{"id":"b7ec03e0ca4bebc8","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141618.png","x":10280,"y":1280,"width":400,"height":400},
 		{"id":"3bcb053a26a5eb5d","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141701.png","x":10960,"y":1280,"width":400,"height":400},
 		{"id":"251432a73840c8d7","type":"text","text":"G4凝聚手，控线，防止对手走A4吃大量内子","x":11035,"y":1740,"width":250,"height":60},
-		{"id":"cc7fe9707fb921ca","x":3440,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250120235918.png"}
+		{"id":"cc7fe9707fb921ca","x":3440,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250120235918.png"},
+		{"id":"f1aca5d301874e7c","x":4080,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250120235957.png"},
+		{"id":"d433bac70097f5f3","x":4760,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000011.png"},
+		{"id":"3495477430b68aeb","x":5400,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000036.png"}
 	],
 	"edges":[
 		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
@@ -66,6 +69,8 @@
 		{"id":"dc1455f07410080e","fromNode":"ddb03e6c2ff6ad3e","fromSide":"right","toNode":"b7ec03e0ca4bebc8","toSide":"left"},
 		{"id":"19b5ddfe8721a427","fromNode":"b7ec03e0ca4bebc8","fromSide":"right","toNode":"3bcb053a26a5eb5d","toSide":"left"},
 		{"id":"d077062fd522a07c","fromNode":"251432a73840c8d7","fromSide":"top","toNode":"3bcb053a26a5eb5d","toSide":"bottom"},
-		{"id":"ddc189fd17cd4a24","fromNode":"77eb2bcbe557dbd2","fromSide":"right","toNode":"cc7fe9707fb921ca","toSide":"left","label":"F3"}
+		{"id":"ddc189fd17cd4a24","fromNode":"77eb2bcbe557dbd2","fromSide":"right","toNode":"cc7fe9707fb921ca","toSide":"left","label":"F3分支(+0)"},
+		{"id":"f9a91e9321e267a0","fromNode":"cc7fe9707fb921ca","fromSide":"right","toNode":"f1aca5d301874e7c","toSide":"left"},
+		{"id":"90d32e91801694bd","fromNode":"f1aca5d301874e7c","fromSide":"right","toNode":"d433bac70097f5f3","toSide":"left"}
 	]
 }
