@@ -24,7 +24,6 @@
 		{"id":"700b28bb7b8b93fb","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141108.png","x":7440,"y":1280,"width":400,"height":400},
 		{"id":"f738032125aeba2c","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112140638.png","x":2160,"y":1280,"width":400,"height":400},
 		{"id":"fb1e182d2b76dbc4","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112140659.png","x":2800,"y":1280,"width":400,"height":400},
-		{"id":"a6ef2ad993c2cc3b","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140156.png","x":8560,"y":295,"width":400,"height":400},
 		{"id":"b43496ce9ac9fb54","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141249.png","x":8160,"y":1280,"width":400,"height":400},
 		{"id":"6dd670c355af8c22","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141355.png","x":8840,"y":1280,"width":400,"height":400},
 		{"id":"640b1282a83a0d96","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140228.png","x":9880,"y":695,"width":400,"height":400},
@@ -35,7 +34,8 @@
 		{"id":"cc7fe9707fb921ca","x":3440,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250120235918.png"},
 		{"id":"f1aca5d301874e7c","x":4080,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250120235957.png"},
 		{"id":"d433bac70097f5f3","x":4760,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000011.png"},
-		{"id":"3495477430b68aeb","x":5400,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000036.png"}
+		{"id":"3495477430b68aeb","x":5400,"y":-1200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000036.png"},
+		{"id":"a6ef2ad993c2cc3b","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140156.png","x":8520,"y":480,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
