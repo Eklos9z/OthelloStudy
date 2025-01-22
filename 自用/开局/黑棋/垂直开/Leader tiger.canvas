@@ -25,7 +25,6 @@
 		{"id":"fb1e182d2b76dbc4","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112140659.png","x":2800,"y":1280,"width":400,"height":400},
 		{"id":"b43496ce9ac9fb54","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141249.png","x":8160,"y":1280,"width":400,"height":400},
 		{"id":"6dd670c355af8c22","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141355.png","x":8840,"y":1280,"width":400,"height":400},
-		{"id":"640b1282a83a0d96","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140228.png","x":9880,"y":695,"width":400,"height":400},
 		{"id":"ddb03e6c2ff6ad3e","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141455.png","x":9560,"y":1280,"width":400,"height":400},
 		{"id":"b7ec03e0ca4bebc8","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141618.png","x":10280,"y":1280,"width":400,"height":400},
 		{"id":"3bcb053a26a5eb5d","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250112141701.png","x":10960,"y":1280,"width":400,"height":400},
@@ -34,8 +33,8 @@
 		{"id":"f1aca5d301874e7c","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250120235957.png","x":4080,"y":-1200,"width":400,"height":400},
 		{"id":"d433bac70097f5f3","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000011.png","x":4760,"y":-1200,"width":400,"height":400},
 		{"id":"3495477430b68aeb","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000036.png","x":5400,"y":-1200,"width":400,"height":400},
-		{"id":"a6ef2ad993c2cc3b","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140156.png","x":8520,"y":480,"width":400,"height":400},
-		{"id":"67ba04e646ccf576","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250111140130.png","x":7480,"y":-200,"width":400,"height":400}
+		{"id":"7268daf1e4134949","x":7440,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250122201339.png"},
+		{"id":"671a5a5f7d1ea68d","x":8160,"y":-200,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250122201334.png"}
 	],
 	"edges":[
 		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
@@ -51,9 +50,6 @@
 		{"id":"5644b5e8d66632fb","fromNode":"38b19c3db224e174","fromSide":"right","toNode":"b8a47eac824fc78a","toSide":"left"},
 		{"id":"ef5b3854d948e07a","fromNode":"b8a47eac824fc78a","fromSide":"right","toNode":"7ffe2c64bc2f6844","toSide":"left"},
 		{"id":"181df4b03330cec5","fromNode":"7ffe2c64bc2f6844","fromSide":"right","toNode":"b1e0e6f60d8ff173","toSide":"left"},
-		{"id":"af307b8e7bbb0f4e","fromNode":"b1e0e6f60d8ff173","fromSide":"right","toNode":"67ba04e646ccf576","toSide":"left"},
-		{"id":"f41994b95c8630c9","fromNode":"67ba04e646ccf576","fromSide":"right","toNode":"a6ef2ad993c2cc3b","toSide":"left","label":"*C1分支(诱导步)"},
-		{"id":"794eff14e0e467ff","fromNode":"a6ef2ad993c2cc3b","fromSide":"right","toNode":"640b1282a83a0d96","toSide":"left","label":"*E1分支"},
 		{"id":"84c7ffb87a91c143","fromNode":"c9dc7cc7386c3279","fromSide":"right","toNode":"f738032125aeba2c","toSide":"left","label":"F6(-2)分支"},
 		{"id":"d27b6cb5ffb7d2c9","fromNode":"f738032125aeba2c","fromSide":"right","toNode":"fb1e182d2b76dbc4","toSide":"left"},
 		{"id":"dd2ad14b20c8d04a","fromNode":"fb1e182d2b76dbc4","fromSide":"right","toNode":"fde29282e13d6c62","toSide":"left"},
@@ -72,6 +68,8 @@
 		{"id":"ddc189fd17cd4a24","fromNode":"77eb2bcbe557dbd2","fromSide":"right","toNode":"cc7fe9707fb921ca","toSide":"left","label":"F3分支(+0)"},
 		{"id":"f9a91e9321e267a0","fromNode":"cc7fe9707fb921ca","fromSide":"right","toNode":"f1aca5d301874e7c","toSide":"left"},
 		{"id":"90d32e91801694bd","fromNode":"f1aca5d301874e7c","fromSide":"right","toNode":"d433bac70097f5f3","toSide":"left"},
-		{"id":"3cf16346ca0ac6d6","fromNode":"d433bac70097f5f3","fromSide":"right","toNode":"3495477430b68aeb","toSide":"left"}
+		{"id":"3cf16346ca0ac6d6","fromNode":"d433bac70097f5f3","fromSide":"right","toNode":"3495477430b68aeb","toSide":"left"},
+		{"id":"5ed0b84b36c64794","fromNode":"b1e0e6f60d8ff173","fromSide":"right","toNode":"7268daf1e4134949","toSide":"left"},
+		{"id":"7cb2ec608c903157","fromNode":"7268daf1e4134949","fromSide":"right","toNode":"671a5a5f7d1ea68d","toSide":"left"}
 	]
 }
