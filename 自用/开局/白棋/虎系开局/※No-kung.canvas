@@ -8,9 +8,10 @@
 		{"id":"455ab82fa3d5bf8c","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250107175926.png","x":3460,"y":-160,"width":400,"height":400},
 		{"id":"e71eb36bf2488c37","type":"text","text":"E6分支","x":3280,"y":10,"width":120,"height":60},
 		{"id":"4ae2d8c3b64824ba","type":"text","text":"黑棋E6中割","x":3568,"y":280,"width":185,"height":80},
-		{"id":"80c0e9c2a27db6cb","x":-1160,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png"},
-		{"id":"c794c28f5269e963","x":-520,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png"},
-		{"id":"f312c93a275d866b","x":80,"y":-160,"width":400,"height":400,"type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213759.png"}
+		{"id":"f312c93a275d866b","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213759.png","x":80,"y":-160,"width":400,"height":400},
+		{"id":"80c0e9c2a27db6cb","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-1680,"y":-160,"width":400,"height":400},
+		{"id":"c794c28f5269e963","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-960,"y":-160,"width":400,"height":400},
+		{"id":"142c27b1ba23deb1","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":-440,"y":-160,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"3b2c9c2a08940140","fromNode":"17bc106239ced519","fromSide":"right","toNode":"9678a27b2d23fdcb","toSide":"left"},
@@ -20,7 +21,8 @@
 		{"id":"a4a4dab6c3e8477c","fromNode":"585c12d91c91ddd2","fromSide":"right","toNode":"455ab82fa3d5bf8c","toSide":"left"},
 		{"id":"9f3707c27aea97df","fromNode":"4ae2d8c3b64824ba","fromSide":"top","toNode":"455ab82fa3d5bf8c","toSide":"bottom"},
 		{"id":"f209acea4c9163d7","fromNode":"f312c93a275d866b","fromSide":"right","toNode":"17bc106239ced519","toSide":"left"},
-		{"id":"d70e46623d9383b4","fromNode":"c794c28f5269e963","fromSide":"right","toNode":"f312c93a275d866b","toSide":"left"},
-		{"id":"9ef4da9812ec030d","fromNode":"80c0e9c2a27db6cb","fromSide":"right","toNode":"c794c28f5269e963","toSide":"left"}
+		{"id":"9ef4da9812ec030d","fromNode":"80c0e9c2a27db6cb","fromSide":"right","toNode":"c794c28f5269e963","toSide":"left"},
+		{"id":"479ec1d38a521090","fromNode":"c794c28f5269e963","fromSide":"right","toNode":"142c27b1ba23deb1","toSide":"left"},
+		{"id":"f43ccfc051c78504","fromNode":"142c27b1ba23deb1","fromSide":"right","toNode":"f312c93a275d866b","toSide":"left"}
 	]
 }
