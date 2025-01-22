@@ -29,7 +29,7 @@
 		{"id":"366effd356000571","type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250106154219.png","x":5440,"y":1880,"width":400,"height":400},
 		{"id":"e63f26e71826cba6","type":"text","text":"对手有两个选择\n1. C6中割，翻动D7，破坏黑棋F4\n2. F7一子返","x":2785,"y":-500,"width":250,"height":140},
 		{"id":"58097c84844df2ec","type":"text","text":"靠近边的是Heath,E7f4为-2\n原理边的是Cow,C5f4为0","x":1450,"y":120,"width":250,"height":140},
-		{"id":"9a68eff2f7fec7cf","x":93,"y":179,"width":250,"height":81,"type":"text","text":""}
+		{"id":"9a68eff2f7fec7cf","x":93,"y":179,"width":250,"height":81,"type":"text","text":"f5f6e6d6e7g5c5"}
 	],
 	"edges":[
 		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},
