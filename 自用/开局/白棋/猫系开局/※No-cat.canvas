@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"f44e9850d4869266","x":6512,"y":9,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230738.png"},
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
@@ -21,6 +22,7 @@
 		{"id":"6511e31d5f333bcd","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e27a18d9b4947752","toSide":"left","label":"C6(swallow分支)"},
 		{"id":"da2b7c411cdaba9f","fromNode":"e27a18d9b4947752","fromSide":"right","toNode":"149a19e6d7e57b4e","toSide":"left"},
 		{"id":"f29dfd3ba61d0fe1","fromNode":"149a19e6d7e57b4e","fromSide":"right","toNode":"3be709ba2ab33075","toSide":"left"},
-		{"id":"03318f98786c4dd1","fromNode":"3be709ba2ab33075","fromSide":"right","toNode":"1626cb2871e4256b","toSide":"left"}
+		{"id":"03318f98786c4dd1","fromNode":"3be709ba2ab33075","fromSide":"right","toNode":"1626cb2871e4256b","toSide":"left"},
+		{"id":"7ed4adb0ee7e236c","fromNode":"1626cb2871e4256b","fromSide":"right","toNode":"6997ae2929d2abb9","toSide":"left"}
 	]
 }
