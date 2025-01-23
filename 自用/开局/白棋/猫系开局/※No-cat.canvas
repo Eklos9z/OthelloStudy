@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"e27f72556062f390","x":13709,"y":282,"width":250,"height":60,"type":"text","text":""},
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
@@ -33,7 +34,10 @@
 		{"id":"354b45eb1f1eccc3","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123234542.png","x":12480,"y":-200,"width":400,"height":400},
 		{"id":"6188bdfd94ffe58b","x":13120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235058.png"},
 		{"id":"747044c70db95358","type":"text","text":"D2反控线，同时酝酿B3","x":12555,"y":280,"width":250,"height":60},
-		{"id":"a5275ad73309e69e","x":13195,"y":280,"width":250,"height":60,"type":"text","text":"E6控住对手防止进入B3"}
+		{"id":"a5275ad73309e69e","x":13195,"y":280,"width":250,"height":60,"type":"text","text":"E6控住对手防止进入B3"},
+		{"id":"0f3ec94a4ce37ef7","x":13740,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235817.png"},
+		{"id":"6c009c4f95ae2edd","x":14440,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235825.png"},
+		{"id":"fb1cd7dcbba70685","x":15060,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235848.png"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -55,6 +59,9 @@
 		{"id":"a63b3bddadd57e68","fromNode":"83f482b3a68519b0","fromSide":"right","toNode":"0563929483d2fde8","toSide":"left"},
 		{"id":"430413b2d4bae019","fromNode":"0563929483d2fde8","fromSide":"right","toNode":"dd68fc82f052abbb","toSide":"left"},
 		{"id":"677dc1edab626d4c","fromNode":"dd68fc82f052abbb","fromSide":"right","toNode":"354b45eb1f1eccc3","toSide":"left"},
-		{"id":"414d75955dca64f7","fromNode":"354b45eb1f1eccc3","fromSide":"right","toNode":"6188bdfd94ffe58b","toSide":"left"}
+		{"id":"414d75955dca64f7","fromNode":"354b45eb1f1eccc3","fromSide":"right","toNode":"6188bdfd94ffe58b","toSide":"left"},
+		{"id":"c70f8049f86f56bf","fromNode":"6188bdfd94ffe58b","fromSide":"right","toNode":"0f3ec94a4ce37ef7","toSide":"left"},
+		{"id":"f1726d0bf20da101","fromNode":"0f3ec94a4ce37ef7","fromSide":"right","toNode":"6c009c4f95ae2edd","toSide":"left"},
+		{"id":"603358affd882951","fromNode":"6c009c4f95ae2edd","fromSide":"right","toNode":"fb1cd7dcbba70685","toSide":"left"}
 	]
 }
