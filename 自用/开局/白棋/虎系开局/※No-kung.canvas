@@ -10,8 +10,8 @@
 		{"id":"4ae2d8c3b64824ba","type":"text","text":"黑棋E6中割","x":3568,"y":280,"width":185,"height":80},
 		{"id":"f312c93a275d866b","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213759.png","x":80,"y":-160,"width":400,"height":400},
 		{"id":"80c0e9c2a27db6cb","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-1680,"y":-160,"width":400,"height":400},
-		{"id":"c794c28f5269e963","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-960,"y":-160,"width":400,"height":400},
-		{"id":"142c27b1ba23deb1","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":-440,"y":-160,"width":400,"height":400}
+		{"id":"142c27b1ba23deb1","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":-440,"y":-160,"width":400,"height":400},
+		{"id":"c794c28f5269e963","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-1040,"y":-160,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"3b2c9c2a08940140","fromNode":"17bc106239ced519","fromSide":"right","toNode":"9678a27b2d23fdcb","toSide":"left"},
