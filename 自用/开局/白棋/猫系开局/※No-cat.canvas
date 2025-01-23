@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"f44e9850d4869266","x":6512,"y":9,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230738.png"},
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
@@ -12,7 +11,11 @@
 		{"id":"87cd43d7b21ed7e3","type":"text","text":"D7中割","x":4356,"y":261,"width":250,"height":60},
 		{"id":"1626cb2871e4256b","x":5120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230249.png"},
 		{"id":"44854fcb802714a7","x":5123,"y":259,"width":250,"height":60,"type":"text","text":"类似heath-bat"},
-		{"id":"6997ae2929d2abb9","x":5820,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230629.png"}
+		{"id":"6997ae2929d2abb9","x":5820,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230629.png"},
+		{"id":"f44e9850d4869266","x":6500,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230738.png"},
+		{"id":"defcc338b26113f6","x":7140,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230746.png"},
+		{"id":"03ad212c8eae80c9","x":7800,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230824.png"},
+		{"id":"ea759d1f489d1886","x":7875,"y":240,"width":250,"height":60,"type":"text","text":"二子控线"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -23,6 +26,9 @@
 		{"id":"da2b7c411cdaba9f","fromNode":"e27a18d9b4947752","fromSide":"right","toNode":"149a19e6d7e57b4e","toSide":"left"},
 		{"id":"f29dfd3ba61d0fe1","fromNode":"149a19e6d7e57b4e","fromSide":"right","toNode":"3be709ba2ab33075","toSide":"left"},
 		{"id":"03318f98786c4dd1","fromNode":"3be709ba2ab33075","fromSide":"right","toNode":"1626cb2871e4256b","toSide":"left"},
-		{"id":"7ed4adb0ee7e236c","fromNode":"1626cb2871e4256b","fromSide":"right","toNode":"6997ae2929d2abb9","toSide":"left"}
+		{"id":"7ed4adb0ee7e236c","fromNode":"1626cb2871e4256b","fromSide":"right","toNode":"6997ae2929d2abb9","toSide":"left"},
+		{"id":"b9af8b03e46e2d9d","fromNode":"6997ae2929d2abb9","fromSide":"right","toNode":"f44e9850d4869266","toSide":"left"},
+		{"id":"08b10a427e369715","fromNode":"f44e9850d4869266","fromSide":"right","toNode":"defcc338b26113f6","toSide":"left"},
+		{"id":"cc63b9896b66dc4c","fromNode":"defcc338b26113f6","fromSide":"right","toNode":"03ad212c8eae80c9","toSide":"left"}
 	]
 }
