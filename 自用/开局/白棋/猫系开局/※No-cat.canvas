@@ -31,7 +31,9 @@
 		{"id":"dd68fc82f052abbb","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123234224.png","x":11840,"y":-200,"width":400,"height":400},
 		{"id":"130d426bf86f335b","type":"text","text":"白棋B6切线","x":11915,"y":299,"width":250,"height":60},
 		{"id":"354b45eb1f1eccc3","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123234542.png","x":12480,"y":-200,"width":400,"height":400},
-		{"id":"747044c70db95358","type":"text","text":"D2反控线，同时酝酿B3","x":12555,"y":299,"width":250,"height":60}
+		{"id":"6188bdfd94ffe58b","x":13120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235058.png"},
+		{"id":"747044c70db95358","type":"text","text":"D2反控线，同时酝酿B3","x":12555,"y":280,"width":250,"height":60},
+		{"id":"a5275ad73309e69e","x":13155,"y":296,"width":250,"height":60,"type":"text","text":"E6控住对手防止进入B3"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -52,6 +54,7 @@
 		{"id":"dbd8aae2b3d4266a","fromNode":"4c5d7225bcf4bbff","fromSide":"right","toNode":"83f482b3a68519b0","toSide":"left"},
 		{"id":"a63b3bddadd57e68","fromNode":"83f482b3a68519b0","fromSide":"right","toNode":"0563929483d2fde8","toSide":"left"},
 		{"id":"430413b2d4bae019","fromNode":"0563929483d2fde8","fromSide":"right","toNode":"dd68fc82f052abbb","toSide":"left"},
-		{"id":"677dc1edab626d4c","fromNode":"dd68fc82f052abbb","fromSide":"right","toNode":"354b45eb1f1eccc3","toSide":"left"}
+		{"id":"677dc1edab626d4c","fromNode":"dd68fc82f052abbb","fromSide":"right","toNode":"354b45eb1f1eccc3","toSide":"left"},
+		{"id":"414d75955dca64f7","fromNode":"354b45eb1f1eccc3","fromSide":"right","toNode":"6188bdfd94ffe58b","toSide":"left"}
 	]
 }
