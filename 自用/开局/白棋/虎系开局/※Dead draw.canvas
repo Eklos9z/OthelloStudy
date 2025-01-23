@@ -20,7 +20,7 @@
 		{"id":"db32e98aec127e93","type":"file","file":"中盘/提前确认交换的优先级.md","x":5200,"y":1940,"width":400,"height":520},
 		{"id":"397dc53548505959","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":-600,"y":-200,"width":400,"height":400},
 		{"id":"679fbea19ff187d9","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-1840,"y":-200,"width":400,"height":400},
-		{"id":"a7fb9e5a423ab10e","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-1120,"y":-200,"width":400,"height":400}
+		{"id":"a7fb9e5a423ab10e","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-1200,"y":-200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"fb579943d5048f7b","fromNode":"c6172c1c2a483f6c","fromSide":"right","toNode":"1b1825446a77f756","toSide":"left"},
@@ -41,6 +41,7 @@
 		{"id":"aa95b53d1faae43b","fromNode":"217e8b81be14111e","fromSide":"top","toNode":"3cef5bfd614a3ca8","toSide":"bottom"},
 		{"id":"37fcd930b856b665","fromNode":"db32e98aec127e93","fromSide":"top","toNode":"3cef5bfd614a3ca8","toSide":"bottom"},
 		{"id":"2b1ef004e539969b","fromNode":"679fbea19ff187d9","fromSide":"right","toNode":"a7fb9e5a423ab10e","toSide":"left"},
-		{"id":"456b3dd6d97ffded","fromNode":"a7fb9e5a423ab10e","fromSide":"right","toNode":"397dc53548505959","toSide":"left"}
+		{"id":"456b3dd6d97ffded","fromNode":"a7fb9e5a423ab10e","fromSide":"right","toNode":"397dc53548505959","toSide":"left"},
+		{"id":"d213509613490d01","fromNode":"397dc53548505959","fromSide":"right","toNode":"c6172c1c2a483f6c","toSide":"left"}
 	]
 }

@@ -1,1 +1,17 @@
-{}
+{
+	"nodes":[
+		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
+		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
+		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
+		{"id":"592f97739142e5ca","x":1080,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123225950.png"},
+		{"id":"4f8b01d49bd828a9","x":1840,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123225956.png"},
+		{"id":"e27a18d9b4947752","x":2760,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230004.png"}
+	],
+	"edges":[
+		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
+		{"id":"4e62fd52fba093a2","fromNode":"f51880bc01b11fda","fromSide":"right","toNode":"9e8e487eecd3e3bd","toSide":"left"},
+		{"id":"fbac60848a826a91","fromNode":"9e8e487eecd3e3bd","fromSide":"right","toNode":"592f97739142e5ca","toSide":"left"},
+		{"id":"be97e7684207c4b5","fromNode":"592f97739142e5ca","fromSide":"right","toNode":"4f8b01d49bd828a9","toSide":"left"},
+		{"id":"6511e31d5f333bcd","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e27a18d9b4947752","toSide":"left","label":"C6"}
+	]
+}
