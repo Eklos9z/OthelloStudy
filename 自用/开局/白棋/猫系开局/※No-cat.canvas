@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"90fbac9b508034c7","x":6730,"y":236,"width":250,"height":60,"type":"text","text":""},
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
@@ -20,7 +19,8 @@
 		{"id":"8b5faa796c205058","x":8480,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123232229.png"},
 		{"id":"33ea750181062fb2","x":9180,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123232302.png"},
 		{"id":"4c5d7225bcf4bbff","x":9860,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123232326.png"},
-		{"id":"a086503bcc858ef8","x":6515,"y":255,"width":250,"height":60,"type":"text","text":"先把C3的行动力占掉之后再考虑二子控线"}
+		{"id":"a086503bcc858ef8","x":6515,"y":255,"width":250,"height":60,"type":"text","text":"先把C3的行动力占掉之后再考虑二子控线"},
+		{"id":"90fbac9b508034c7","x":7215,"y":255,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
