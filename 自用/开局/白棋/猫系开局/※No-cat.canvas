@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"e27f72556062f390","x":13709,"y":282,"width":250,"height":60,"type":"text","text":""},
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
@@ -37,7 +36,8 @@
 		{"id":"a5275ad73309e69e","x":13195,"y":280,"width":250,"height":60,"type":"text","text":"E6控住对手防止进入B3"},
 		{"id":"0f3ec94a4ce37ef7","x":13740,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235817.png"},
 		{"id":"6c009c4f95ae2edd","x":14440,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235825.png"},
-		{"id":"fb1cd7dcbba70685","x":15060,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235848.png"}
+		{"id":"fb1cd7dcbba70685","x":15060,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235848.png"},
+		{"id":"e27f72556062f390","x":13815,"y":280,"width":250,"height":60,"type":"text","text":"黑棋常规交换"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
