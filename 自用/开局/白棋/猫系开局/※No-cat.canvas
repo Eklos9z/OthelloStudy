@@ -25,7 +25,8 @@
 		{"id":"8be58d73c09a5fa8","x":9255,"y":265,"width":250,"height":60,"type":"text","text":"F1防止黑棋进入B6，同时使自己的棋子更加凝聚"},
 		{"id":"563fe2648744ece2","x":9935,"y":269,"width":250,"height":60,"type":"text","text":"黑棋筑墙"},
 		{"id":"48880f7b83f29fe2","x":10520,"y":269,"width":250,"height":60,"type":"text","text":"白棋A6维持二子控线"},
-		{"id":"83f482b3a68519b0","x":10445,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123233638.png"}
+		{"id":"83f482b3a68519b0","x":10445,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123233638.png"},
+		{"id":"0563929483d2fde8","x":11120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123233851.png"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -43,6 +44,7 @@
 		{"id":"908c45723c3db8cd","fromNode":"03ad212c8eae80c9","fromSide":"right","toNode":"8b5faa796c205058","toSide":"left"},
 		{"id":"fa05cf6eaa23e7cd","fromNode":"8b5faa796c205058","fromSide":"right","toNode":"33ea750181062fb2","toSide":"left"},
 		{"id":"ea602112fe0e9490","fromNode":"33ea750181062fb2","fromSide":"right","toNode":"4c5d7225bcf4bbff","toSide":"left"},
-		{"id":"dbd8aae2b3d4266a","fromNode":"4c5d7225bcf4bbff","fromSide":"right","toNode":"83f482b3a68519b0","toSide":"left"}
+		{"id":"dbd8aae2b3d4266a","fromNode":"4c5d7225bcf4bbff","fromSide":"right","toNode":"83f482b3a68519b0","toSide":"left"},
+		{"id":"a63b3bddadd57e68","fromNode":"83f482b3a68519b0","fromSide":"right","toNode":"0563929483d2fde8","toSide":"left"}
 	]
 }
