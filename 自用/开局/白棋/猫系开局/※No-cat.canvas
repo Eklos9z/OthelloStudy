@@ -24,7 +24,7 @@
 		{"id":"db2d2e135e710f29","x":8488,"y":265,"width":250,"height":60,"type":"text","text":"这里F2和A6都是为了防止白棋B6"},
 		{"id":"8be58d73c09a5fa8","x":9255,"y":265,"width":250,"height":60,"type":"text","text":"F1防止黑棋进入B6，同时使自己的棋子更加凝聚"},
 		{"id":"563fe2648744ece2","x":9935,"y":269,"width":250,"height":60,"type":"text","text":"黑棋筑墙"},
-		{"id":"48880f7b83f29fe2","x":10520,"y":269,"width":250,"height":60,"type":"text","text":"白棋A"},
+		{"id":"48880f7b83f29fe2","x":10520,"y":269,"width":250,"height":60,"type":"text","text":"白棋A6维持二子控线"},
 		{"id":"83f482b3a68519b0","x":10445,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123233638.png"}
 	],
 	"edges":[
