@@ -33,7 +33,7 @@
 		{"id":"354b45eb1f1eccc3","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123234542.png","x":12480,"y":-200,"width":400,"height":400},
 		{"id":"6188bdfd94ffe58b","x":13120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235058.png"},
 		{"id":"747044c70db95358","type":"text","text":"D2反控线，同时酝酿B3","x":12555,"y":280,"width":250,"height":60},
-		{"id":"a5275ad73309e69e","x":13155,"y":296,"width":250,"height":60,"type":"text","text":"E6控住对手防止进入B3"}
+		{"id":"a5275ad73309e69e","x":13195,"y":280,"width":250,"height":60,"type":"text","text":"E6控住对手防止进入B3"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
