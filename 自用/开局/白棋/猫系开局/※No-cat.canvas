@@ -9,7 +9,8 @@
 		{"id":"149a19e6d7e57b4e","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230045.png","x":3560,"y":-200,"width":400,"height":400},
 		{"id":"3be709ba2ab33075","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230056.png","x":4320,"y":-200,"width":400,"height":400},
 		{"id":"87cd43d7b21ed7e3","type":"text","text":"D7中割","x":4356,"y":261,"width":250,"height":60},
-		{"id":"1626cb2871e4256b","x":5120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230249.png"}
+		{"id":"1626cb2871e4256b","x":5120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230249.png"},
+		{"id":"44854fcb802714a7","x":5123,"y":259,"width":250,"height":60,"type":"text","text":"类似"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
