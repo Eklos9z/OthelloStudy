@@ -26,7 +26,8 @@
 		{"id":"563fe2648744ece2","x":9935,"y":269,"width":250,"height":60,"type":"text","text":"黑棋筑墙"},
 		{"id":"48880f7b83f29fe2","x":10520,"y":269,"width":250,"height":60,"type":"text","text":"白棋A6维持二子控线"},
 		{"id":"83f482b3a68519b0","x":10445,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123233638.png"},
-		{"id":"0563929483d2fde8","x":11120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123233851.png"}
+		{"id":"0563929483d2fde8","x":11120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123233851.png"},
+		{"id":"4dd03225d2f7d721","x":11249,"y":304,"width":250,"height":60,"type":"text","text":"黑棋F6控线"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
