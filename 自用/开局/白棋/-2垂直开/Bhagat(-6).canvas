@@ -20,7 +20,8 @@
 		{"id":"3e998c4b46789009","type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110204302.png","x":6620,"y":-160,"width":400,"height":400},
 		{"id":"35ae322235aaa34d","type":"text","text":"黑棋E7扩大墙体","x":6695,"y":342,"width":250,"height":60},
 		{"id":"f4334f25b5ba0156","type":"text","text":"D3中割凝聚，同时做D5E6二子控线","x":5055,"y":342,"width":250,"height":60},
-		{"id":"c04f4cca9c00de45","type":"text","text":"白棋F8逐步吞下下方的行动力，同时因为对手不可能兼顾下方和F7，所以F7是一步白棋的余裕手","x":6678,"y":402,"width":285,"height":118}
+		{"id":"c04f4cca9c00de45","type":"text","text":"白棋F8逐步吞下下方的行动力，同时因为对手不可能兼顾下方和F7，所以F7是一步白棋的余裕手","x":6678,"y":402,"width":285,"height":118},
+		{"id":"34f1945f1c9bdce3","x":-385,"y":320,"width":250,"height":60,"type":"text","text":"(f5d6c5f4e3c6d7)"}
 	],
 	"edges":[
 		{"id":"e44f8d44d75cd43d","fromNode":"b83849d91d31f10b","fromSide":"right","toNode":"926643c8c2f8ba40","toSide":"left"},
