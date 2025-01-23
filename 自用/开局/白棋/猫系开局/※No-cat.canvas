@@ -38,9 +38,11 @@
 		{"id":"6c009c4f95ae2edd","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235825.png","x":14440,"y":-200,"width":400,"height":400},
 		{"id":"fb1cd7dcbba70685","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123235848.png","x":15060,"y":-200,"width":400,"height":400},
 		{"id":"e27f72556062f390","type":"text","text":"黑棋常规交换","x":13815,"y":280,"width":250,"height":60},
-		{"id":"d52b2a8d12b2d16c","x":15740,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003527.png"},
-		{"id":"f1d9e6bf443af151","x":16460,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003536.png"},
-		{"id":"66b3271bb2cce2e4","x":17140,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003547.png"}
+		{"id":"d52b2a8d12b2d16c","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003527.png","x":15740,"y":-200,"width":400,"height":400},
+		{"id":"f1d9e6bf443af151","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003536.png","x":16460,"y":-200,"width":400,"height":400},
+		{"id":"66b3271bb2cce2e4","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003547.png","x":17140,"y":-200,"width":400,"height":400},
+		{"id":"65fa28ff82c7ec4d","x":17780,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003736.png"},
+		{"id":"e8aa1eed3d6eef12","x":18360,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003757.png"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -68,6 +70,8 @@
 		{"id":"603358affd882951","fromNode":"6c009c4f95ae2edd","fromSide":"right","toNode":"fb1cd7dcbba70685","toSide":"left"},
 		{"id":"bb1e6b11d35d1577","fromNode":"fb1cd7dcbba70685","fromSide":"right","toNode":"d52b2a8d12b2d16c","toSide":"left"},
 		{"id":"a2b42394012d45ea","fromNode":"d52b2a8d12b2d16c","fromSide":"right","toNode":"f1d9e6bf443af151","toSide":"left"},
-		{"id":"65ce428847a46b25","fromNode":"f1d9e6bf443af151","fromSide":"right","toNode":"66b3271bb2cce2e4","toSide":"left"}
+		{"id":"65ce428847a46b25","fromNode":"f1d9e6bf443af151","fromSide":"right","toNode":"66b3271bb2cce2e4","toSide":"left"},
+		{"id":"72e8adcf492b8eeb","fromNode":"66b3271bb2cce2e4","fromSide":"right","toNode":"65fa28ff82c7ec4d","toSide":"left"},
+		{"id":"dfb34aa710c7f629","fromNode":"65fa28ff82c7ec4d","fromSide":"right","toNode":"e8aa1eed3d6eef12","toSide":"left"}
 	]
 }
