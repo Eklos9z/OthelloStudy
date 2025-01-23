@@ -3,12 +3,13 @@
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
-		{"id":"592f97739142e5ca","x":1080,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123225950.png"},
-		{"id":"4f8b01d49bd828a9","x":1840,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123225956.png"},
-		{"id":"e27a18d9b4947752","x":2760,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230004.png"},
-		{"id":"149a19e6d7e57b4e","x":3560,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230045.png"},
-		{"id":"3be709ba2ab33075","x":4320,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230056.png"},
-		{"id":"87cd43d7b21ed7e3","x":4356,"y":261,"width":250,"height":60,"type":"text","text":"D7中割"}
+		{"id":"592f97739142e5ca","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123225950.png","x":1080,"y":-200,"width":400,"height":400},
+		{"id":"4f8b01d49bd828a9","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123225956.png","x":1840,"y":-200,"width":400,"height":400},
+		{"id":"e27a18d9b4947752","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230004.png","x":2760,"y":-200,"width":400,"height":400},
+		{"id":"149a19e6d7e57b4e","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230045.png","x":3560,"y":-200,"width":400,"height":400},
+		{"id":"3be709ba2ab33075","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230056.png","x":4320,"y":-200,"width":400,"height":400},
+		{"id":"87cd43d7b21ed7e3","type":"text","text":"D7中割","x":4356,"y":261,"width":250,"height":60},
+		{"id":"1626cb2871e4256b","x":5120,"y":-200,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250123230249.png"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -17,6 +18,7 @@
 		{"id":"be97e7684207c4b5","fromNode":"592f97739142e5ca","fromSide":"right","toNode":"4f8b01d49bd828a9","toSide":"left"},
 		{"id":"6511e31d5f333bcd","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e27a18d9b4947752","toSide":"left","label":"C6(swallow分支)"},
 		{"id":"da2b7c411cdaba9f","fromNode":"e27a18d9b4947752","fromSide":"right","toNode":"149a19e6d7e57b4e","toSide":"left"},
-		{"id":"f29dfd3ba61d0fe1","fromNode":"149a19e6d7e57b4e","fromSide":"right","toNode":"3be709ba2ab33075","toSide":"left"}
+		{"id":"f29dfd3ba61d0fe1","fromNode":"149a19e6d7e57b4e","fromSide":"right","toNode":"3be709ba2ab33075","toSide":"left"},
+		{"id":"03318f98786c4dd1","fromNode":"3be709ba2ab33075","fromSide":"right","toNode":"1626cb2871e4256b","toSide":"right"}
 	]
 }
