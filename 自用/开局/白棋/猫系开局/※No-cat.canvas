@@ -94,6 +94,7 @@
 		{"id":"33918acb4d5bc093","fromNode":"613722ce2c269854","fromSide":"bottom","toNode":"79edb2e1555dca23","toSide":"top"},
 		{"id":"de7f25955248e7ec","fromNode":"613722ce2c269854","fromSide":"bottom","toNode":"519079741b743664","toSide":"top"},
 		{"id":"e6bb8a42dfb928f4","fromNode":"f2aa5409d2f7dbf6","fromSide":"bottom","toNode":"52dea59425d8a70c","toSide":"top"},
-		{"id":"b1e185c5bea68de1","fromNode":"52dea59425d8a70c","fromSide":"right","toNode":"f2aa5409d2f7dbf6","toSide":"right","label":"修正为+0"}
+		{"id":"b1e185c5bea68de1","fromNode":"52dea59425d8a70c","fromSide":"right","toNode":"f2aa5409d2f7dbf6","toSide":"right","label":"修正为+0"},
+		{"id":"3fa2074f87f466a2","fromNode":"f2aa5409d2f7dbf6","fromSide":"right","toNode":"79edb2e1555dca23","toSide":"right","label":"修正为+0"}
 	]
 }
