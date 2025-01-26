@@ -53,8 +53,8 @@
 		{"id":"519079741b743664","type":"text","text":"3步-3","x":3906,"y":1070,"width":127,"height":60},
 		{"id":"79edb2e1555dca23","type":"text","text":"3步+1","x":3680,"y":1070,"width":127,"height":60},
 		{"id":"f21204a1e41bfc8d","x":4033,"y":1200,"width":53,"height":123,"type":"text","text":"·\n·\n·\n·\n"},
-		{"id":"f2aa5409d2f7dbf6","x":3620,"y":1360,"width":187,"height":60,"type":"text","text":"31步+1（粗训练）"},
-		{"id":"52dea59425d8a70c","x":3649,"y":1500,"width":130,"height":60,"type":"text","text":"32步+0（精训练）"}
+		{"id":"52dea59425d8a70c","x":3620,"y":1500,"width":159,"height":60,"type":"text","text":"32步+0（精训练）"},
+		{"id":"f2aa5409d2f7dbf6","x":3606,"y":1360,"width":187,"height":60,"type":"text","text":"31步+1（粗训练）"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
