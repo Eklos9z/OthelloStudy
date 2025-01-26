@@ -95,6 +95,10 @@
 		{"id":"de7f25955248e7ec","fromNode":"613722ce2c269854","fromSide":"bottom","toNode":"519079741b743664","toSide":"top"},
 		{"id":"e6bb8a42dfb928f4","fromNode":"f2aa5409d2f7dbf6","fromSide":"bottom","toNode":"52dea59425d8a70c","toSide":"top"},
 		{"id":"b1e185c5bea68de1","fromNode":"52dea59425d8a70c","fromSide":"right","toNode":"f2aa5409d2f7dbf6","toSide":"right","label":"修正为+0"},
-		{"id":"3fa2074f87f466a2","fromNode":"f2aa5409d2f7dbf6","fromSide":"right","toNode":"79edb2e1555dca23","toSide":"right","label":"修正为+0"}
+		{"id":"3fa2074f87f466a2","fromNode":"f2aa5409d2f7dbf6","fromSide":"right","toNode":"79edb2e1555dca23","toSide":"right","label":"修正为+0"},
+		{"id":"2eb8d04fe242f074","fromNode":"79edb2e1555dca23","fromSide":"right","toNode":"613722ce2c269854","toSide":"right"},
+		{"id":"97b22febc4e42e9f","fromNode":"613722ce2c269854","fromSide":"right","toNode":"bd3f28de762f3e9f","toSide":"right"},
+		{"id":"533d193e59c146b7","fromNode":"bd3f28de762f3e9f","fromSide":"right","toNode":"7e8cbf23ed96489d","toSide":"right","label":"修正为+0"},
+		{"id":"fa19a98837bbfb7f","fromNode":"bd3f28de762f3e9f","fromSide":"left","toNode":"7e8cbf23ed96489d","toSide":"left","label":"粗读为"}
 	]
 }
