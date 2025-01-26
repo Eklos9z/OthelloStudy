@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"79edb2e1555dca23","x":3950,"y":1032,"width":250,"height":60,"type":"text","text":""},
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
@@ -44,11 +43,15 @@
 		{"id":"66b3271bb2cce2e4","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003547.png","x":17140,"y":-200,"width":400,"height":400},
 		{"id":"65fa28ff82c7ec4d","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003736.png","x":17780,"y":-200,"width":400,"height":400},
 		{"id":"e8aa1eed3d6eef12","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003757.png","x":18360,"y":-200,"width":400,"height":400},
-		{"id":"e3d724ce3d4c53b5","x":2760,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png"},
-		{"id":"7e8cbf23ed96489d","x":4033,"y":688,"width":87,"height":60,"type":"text","text":"根"},
-		{"id":"bd3f28de762f3e9f","x":4027,"y":820,"width":99,"height":52,"type":"text","text":"1步"},
-		{"id":"613722ce2c269854","x":3827,"y":940,"width":113,"height":60,"type":"text","text":"2步+0"},
-		{"id":"1b10146d46782901","x":4200,"y":940,"width":132,"height":60,"type":"text","text":"2步-2"}
+		{"id":"e3d724ce3d4c53b5","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png","x":2760,"y":880,"width":400,"height":400},
+		{"id":"7e8cbf23ed96489d","type":"text","text":"根","x":4033,"y":688,"width":87,"height":60},
+		{"id":"bd3f28de762f3e9f","type":"text","text":"1步","x":4027,"y":820,"width":99,"height":52},
+		{"id":"613722ce2c269854","type":"text","text":"2步+0","x":3827,"y":940,"width":113,"height":60},
+		{"id":"1b10146d46782901","type":"text","text":"2步-2","x":4200,"y":940,"width":132,"height":60},
+		{"id":"151f6c59073dc998","type":"text","text":"3步-2","x":4100,"y":1070,"width":127,"height":60},
+		{"id":"0bcc4b5602aaa208","type":"text","text":"3步-4","x":4332,"y":1070,"width":127,"height":60},
+		{"id":"519079741b743664","type":"text","text":"3步-2","x":3906,"y":1070,"width":127,"height":60},
+		{"id":"79edb2e1555dca23","type":"text","text":"3步+0","x":3680,"y":1070,"width":127,"height":60}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -82,6 +85,10 @@
 		{"id":"db9f9b7ab5605eff","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e3d724ce3d4c53b5","toSide":"left","label":"F6分支(sea otter)"},
 		{"id":"5db424fb01723c1e","fromNode":"7e8cbf23ed96489d","fromSide":"bottom","toNode":"bd3f28de762f3e9f","toSide":"top"},
 		{"id":"01bfe8fccc4b913c","fromNode":"bd3f28de762f3e9f","fromSide":"bottom","toNode":"613722ce2c269854","toSide":"top"},
-		{"id":"02dc3c9fae45c22b","fromNode":"bd3f28de762f3e9f","fromSide":"bottom","toNode":"1b10146d46782901","toSide":"top"}
+		{"id":"02dc3c9fae45c22b","fromNode":"bd3f28de762f3e9f","fromSide":"bottom","toNode":"1b10146d46782901","toSide":"top"},
+		{"id":"f168fcbc478d7ae5","fromNode":"1b10146d46782901","fromSide":"bottom","toNode":"151f6c59073dc998","toSide":"top"},
+		{"id":"50ffdbcb4ada5034","fromNode":"1b10146d46782901","fromSide":"bottom","toNode":"0bcc4b5602aaa208","toSide":"top"},
+		{"id":"33918acb4d5bc093","fromNode":"613722ce2c269854","fromSide":"bottom","toNode":"79edb2e1555dca23","toSide":"top"},
+		{"id":"de7f25955248e7ec","fromNode":"613722ce2c269854","fromSide":"bottom","toNode":"519079741b743664","toSide":"top"}
 	]
 }
