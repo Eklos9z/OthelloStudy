@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"e3d724ce3d4c53b5","x":2284,"y":247,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png"},
 		{"id":"c5b2fd518bce75a7","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-820,"y":-200,"width":400,"height":400},
 		{"id":"f51880bc01b11fda","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-100,"y":-200,"width":400,"height":400},
 		{"id":"9e8e487eecd3e3bd","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":420,"y":-200,"width":400,"height":400},
@@ -43,7 +42,8 @@
 		{"id":"f1d9e6bf443af151","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003536.png","x":16460,"y":-200,"width":400,"height":400},
 		{"id":"66b3271bb2cce2e4","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003547.png","x":17140,"y":-200,"width":400,"height":400},
 		{"id":"65fa28ff82c7ec4d","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003736.png","x":17780,"y":-200,"width":400,"height":400},
-		{"id":"e8aa1eed3d6eef12","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003757.png","x":18360,"y":-200,"width":400,"height":400}
+		{"id":"e8aa1eed3d6eef12","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003757.png","x":18360,"y":-200,"width":400,"height":400},
+		{"id":"e3d724ce3d4c53b5","x":2760,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -73,6 +73,7 @@
 		{"id":"a2b42394012d45ea","fromNode":"d52b2a8d12b2d16c","fromSide":"right","toNode":"f1d9e6bf443af151","toSide":"left"},
 		{"id":"65ce428847a46b25","fromNode":"f1d9e6bf443af151","fromSide":"right","toNode":"66b3271bb2cce2e4","toSide":"left"},
 		{"id":"72e8adcf492b8eeb","fromNode":"66b3271bb2cce2e4","fromSide":"right","toNode":"65fa28ff82c7ec4d","toSide":"left"},
-		{"id":"dfb34aa710c7f629","fromNode":"65fa28ff82c7ec4d","fromSide":"right","toNode":"e8aa1eed3d6eef12","toSide":"left"}
+		{"id":"dfb34aa710c7f629","fromNode":"65fa28ff82c7ec4d","fromSide":"right","toNode":"e8aa1eed3d6eef12","toSide":"left"},
+		{"id":"db9f9b7ab5605eff","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e3d724ce3d4c53b5","toSide":"left","label":"F6分支(sea otter)"}
 	]
 }
