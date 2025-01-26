@@ -50,10 +50,10 @@
 		{"id":"1b10146d46782901","type":"text","text":"2步-2","x":4200,"y":940,"width":132,"height":60},
 		{"id":"151f6c59073dc998","type":"text","text":"3步-2","x":4100,"y":1070,"width":127,"height":60},
 		{"id":"0bcc4b5602aaa208","type":"text","text":"3步-4","x":4332,"y":1070,"width":127,"height":60},
-		{"id":"519079741b743664","type":"text","text":"3步-2","x":3906,"y":1070,"width":127,"height":60},
-		{"id":"79edb2e1555dca23","type":"text","text":"3步+0","x":3680,"y":1070,"width":127,"height":60},
+		{"id":"519079741b743664","type":"text","text":"3步-3","x":3906,"y":1070,"width":127,"height":60},
+		{"id":"79edb2e1555dca23","type":"text","text":"3步+1","x":3680,"y":1070,"width":127,"height":60},
 		{"id":"f21204a1e41bfc8d","x":4033,"y":1200,"width":53,"height":123,"type":"text","text":"·\n·\n·\n·\n"},
-		{"id":"f2aa5409d2f7dbf6","x":3677,"y":1360,"width":130,"height":60,"type":"text","text":"31步+0"},
+		{"id":"f2aa5409d2f7dbf6","x":3677,"y":1360,"width":130,"height":60,"type":"text","text":"31步+1"},
 		{"id":"52dea59425d8a70c","x":3677,"y":1482,"width":130,"height":60,"type":"text","text":"32步+0"}
 	],
 	"edges":[
