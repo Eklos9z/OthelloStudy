@@ -43,18 +43,7 @@
 		{"id":"66b3271bb2cce2e4","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003547.png","x":17140,"y":-200,"width":400,"height":400},
 		{"id":"65fa28ff82c7ec4d","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003736.png","x":17780,"y":-200,"width":400,"height":400},
 		{"id":"e8aa1eed3d6eef12","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003757.png","x":18360,"y":-200,"width":400,"height":400},
-		{"id":"e3d724ce3d4c53b5","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png","x":2760,"y":880,"width":400,"height":400},
-		{"id":"7e8cbf23ed96489d","type":"text","text":"根","x":4033,"y":688,"width":87,"height":60},
-		{"id":"bd3f28de762f3e9f","type":"text","text":"1步","x":4027,"y":820,"width":99,"height":52},
-		{"id":"1b10146d46782901","type":"text","text":"2步-2","x":4200,"y":940,"width":132,"height":60},
-		{"id":"151f6c59073dc998","type":"text","text":"3步-2","x":4100,"y":1070,"width":127,"height":60},
-		{"id":"0bcc4b5602aaa208","type":"text","text":"3步-4","x":4332,"y":1070,"width":127,"height":60},
-		{"id":"519079741b743664","type":"text","text":"3步-3","x":3906,"y":1070,"width":127,"height":60},
-		{"id":"52dea59425d8a70c","x":3601,"y":1500,"width":192,"height":60,"type":"text","text":"32步+4(精训练)"},
-		{"id":"f2aa5409d2f7dbf6","x":3606,"y":1360,"width":187,"height":60,"type":"text","text":"31步+5(粗训l练)"},
-		{"id":"f21204a1e41bfc8d","x":3673,"y":1200,"width":53,"height":123,"type":"text","text":"·\n·\n·\n·\n"},
-		{"id":"79edb2e1555dca23","type":"text","text":"3步+5(粗训练)","x":3608,"y":1070,"width":183,"height":60},
-		{"id":"613722ce2c269854","type":"text","text":"2步+4(粗训练)","x":3613,"y":920,"width":173,"height":50}
+		{"id":"e3d724ce3d4c53b5","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png","x":2760,"y":880,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -85,21 +74,6 @@
 		{"id":"65ce428847a46b25","fromNode":"f1d9e6bf443af151","fromSide":"right","toNode":"66b3271bb2cce2e4","toSide":"left"},
 		{"id":"72e8adcf492b8eeb","fromNode":"66b3271bb2cce2e4","fromSide":"right","toNode":"65fa28ff82c7ec4d","toSide":"left"},
 		{"id":"dfb34aa710c7f629","fromNode":"65fa28ff82c7ec4d","fromSide":"right","toNode":"e8aa1eed3d6eef12","toSide":"left"},
-		{"id":"db9f9b7ab5605eff","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e3d724ce3d4c53b5","toSide":"left","label":"F6分支(sea otter)"},
-		{"id":"5db424fb01723c1e","fromNode":"7e8cbf23ed96489d","fromSide":"bottom","toNode":"bd3f28de762f3e9f","toSide":"top"},
-		{"id":"01bfe8fccc4b913c","fromNode":"bd3f28de762f3e9f","fromSide":"bottom","toNode":"613722ce2c269854","toSide":"top"},
-		{"id":"02dc3c9fae45c22b","fromNode":"bd3f28de762f3e9f","fromSide":"bottom","toNode":"1b10146d46782901","toSide":"top"},
-		{"id":"f168fcbc478d7ae5","fromNode":"1b10146d46782901","fromSide":"bottom","toNode":"151f6c59073dc998","toSide":"top"},
-		{"id":"50ffdbcb4ada5034","fromNode":"1b10146d46782901","fromSide":"bottom","toNode":"0bcc4b5602aaa208","toSide":"top"},
-		{"id":"33918acb4d5bc093","fromNode":"613722ce2c269854","fromSide":"bottom","toNode":"79edb2e1555dca23","toSide":"top"},
-		{"id":"de7f25955248e7ec","fromNode":"613722ce2c269854","fromSide":"bottom","toNode":"519079741b743664","toSide":"top"},
-		{"id":"e6bb8a42dfb928f4","fromNode":"f2aa5409d2f7dbf6","fromSide":"bottom","toNode":"52dea59425d8a70c","toSide":"top"},
-		{"id":"b1e185c5bea68de1","fromNode":"52dea59425d8a70c","fromSide":"right","toNode":"f2aa5409d2f7dbf6","toSide":"right","label":"修正为+4"},
-		{"id":"3fa2074f87f466a2","fromNode":"f2aa5409d2f7dbf6","fromSide":"right","toNode":"79edb2e1555dca23","toSide":"right","label":"修正为+4"},
-		{"id":"97b22febc4e42e9f","fromNode":"613722ce2c269854","fromSide":"right","toNode":"bd3f28de762f3e9f","toSide":"right"},
-		{"id":"533d193e59c146b7","fromNode":"bd3f28de762f3e9f","fromSide":"right","toNode":"7e8cbf23ed96489d","toSide":"right","label":"修正为+0"},
-		{"id":"fa19a98837bbfb7f","fromNode":"bd3f28de762f3e9f","fromSide":"left","toNode":"7e8cbf23ed96489d","toSide":"left","label":"粗读为"},
-		{"id":"147bbf653078e31e","fromNode":"79edb2e1555dca23","fromSide":"bottom","toNode":"f21204a1e41bfc8d","toSide":"top"},
-		{"id":"a6214a2b99165d90","fromNode":"f21204a1e41bfc8d","fromSide":"bottom","toNode":"f2aa5409d2f7dbf6","toSide":"top"}
+		{"id":"db9f9b7ab5605eff","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e3d724ce3d4c53b5","toSide":"left","label":"F6分支(sea otter)"}
 	]
 }
