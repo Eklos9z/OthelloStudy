@@ -44,7 +44,12 @@
 		{"id":"65fa28ff82c7ec4d","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003736.png","x":17780,"y":-200,"width":400,"height":400},
 		{"id":"e8aa1eed3d6eef12","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003757.png","x":18360,"y":-200,"width":400,"height":400},
 		{"id":"e3d724ce3d4c53b5","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png","x":2760,"y":880,"width":400,"height":400},
-		{"id":"b7708f3afd35b25e","x":3560,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114529.png"}
+		{"id":"b7708f3afd35b25e","x":3560,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114529.png"},
+		{"id":"54232d3a998430f7","x":4320,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114537.png"},
+		{"id":"61e815684194abf4","x":5820,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114550.png"},
+		{"id":"a27c9c48ab6dacb4","x":5120,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114543.png"},
+		{"id":"4fb0c69d37c537d6","x":6500,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114559.png"},
+		{"id":"fc1ea2c5c67b1a0f","x":7140,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114606.png"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -76,6 +81,11 @@
 		{"id":"72e8adcf492b8eeb","fromNode":"66b3271bb2cce2e4","fromSide":"right","toNode":"65fa28ff82c7ec4d","toSide":"left"},
 		{"id":"dfb34aa710c7f629","fromNode":"65fa28ff82c7ec4d","fromSide":"right","toNode":"e8aa1eed3d6eef12","toSide":"left"},
 		{"id":"db9f9b7ab5605eff","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e3d724ce3d4c53b5","toSide":"left","label":"F6分支(sea otter)"},
-		{"id":"aa72f3e5f0268c8a","fromNode":"e3d724ce3d4c53b5","fromSide":"right","toNode":"b7708f3afd35b25e","toSide":"left"}
+		{"id":"aa72f3e5f0268c8a","fromNode":"e3d724ce3d4c53b5","fromSide":"right","toNode":"b7708f3afd35b25e","toSide":"left"},
+		{"id":"a7a06062657ead93","fromNode":"b7708f3afd35b25e","fromSide":"right","toNode":"54232d3a998430f7","toSide":"left"},
+		{"id":"70fc688ded754a54","fromNode":"54232d3a998430f7","fromSide":"right","toNode":"a27c9c48ab6dacb4","toSide":"left"},
+		{"id":"6cb94d48f86877c5","fromNode":"a27c9c48ab6dacb4","fromSide":"right","toNode":"61e815684194abf4","toSide":"left"},
+		{"id":"bfb979adbf46cd35","fromNode":"61e815684194abf4","fromSide":"right","toNode":"4fb0c69d37c537d6","toSide":"left"},
+		{"id":"9457ade2d66d0278","fromNode":"4fb0c69d37c537d6","fromSide":"right","toNode":"fc1ea2c5c67b1a0f","toSide":"left"}
 	]
 }
