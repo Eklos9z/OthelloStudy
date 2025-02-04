@@ -6,7 +6,10 @@
 		{"id":"348b912a80526bef","type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202425.png","x":-230,"y":-270,"width":400,"height":400},
 		{"id":"8e03af810cd4e480","type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202442.png","x":850,"y":-270,"width":400,"height":400},
 		{"id":"0329ff0f293f2f88","type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202433.png","x":290,"y":-270,"width":400,"height":400},
-		{"id":"b27248de97f73c8a","type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202450.png","x":1410,"y":-270,"width":400,"height":400}
+		{"id":"b27248de97f73c8a","type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250110202450.png","x":1410,"y":-270,"width":400,"height":400},
+		{"id":"8bfc01017f6bfcd8","x":2080,"y":-270,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250204114206.png"},
+		{"id":"1d6c9c64db12006a","x":2840,"y":-270,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250204114213.png"},
+		{"id":"f69c6224eadef71b","x":3640,"y":-270,"width":400,"height":400,"type":"file","file":"开局/白棋/-2垂直开/picture/Pasted image 20250204114227.png"}
 	],
 	"edges":[
 		{"id":"9cf70e3bcdbf242e","fromNode":"c4ccb03288c3c2bb","fromSide":"right","toNode":"14bf3d0d4a447025","toSide":"left"},
@@ -14,6 +17,8 @@
 		{"id":"86154323196d38c9","fromNode":"5ba90181b4e2d868","fromSide":"right","toNode":"348b912a80526bef","toSide":"left"},
 		{"id":"1fe43382336df9bf","fromNode":"348b912a80526bef","fromSide":"right","toNode":"0329ff0f293f2f88","toSide":"left"},
 		{"id":"c99c816df3eed7fc","fromNode":"8e03af810cd4e480","fromSide":"right","toNode":"b27248de97f73c8a","toSide":"left"},
-		{"id":"b788bb86e4d22cfe","fromNode":"0329ff0f293f2f88","fromSide":"right","toNode":"8e03af810cd4e480","toSide":"left"}
+		{"id":"b788bb86e4d22cfe","fromNode":"0329ff0f293f2f88","fromSide":"right","toNode":"8e03af810cd4e480","toSide":"left"},
+		{"id":"d90b606bf062cae7","fromNode":"b27248de97f73c8a","fromSide":"right","toNode":"8bfc01017f6bfcd8","toSide":"left"},
+		{"id":"e8d270734875f9fd","fromNode":"8bfc01017f6bfcd8","fromSide":"right","toNode":"1d6c9c64db12006a","toSide":"left"}
 	]
 }
