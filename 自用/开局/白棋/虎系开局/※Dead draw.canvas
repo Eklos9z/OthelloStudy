@@ -17,10 +17,10 @@
 		{"id":"4ef01e43aab35ecb","type":"text","text":"黑棋C5中割，但是没有解决白棋的F5和E2两个凝聚手的问题","x":4615,"y":1780,"width":250,"height":100},
 		{"id":"3cef5bfd614a3ca8","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250111134705.png","x":5200,"y":1320,"width":400,"height":400},
 		{"id":"217e8b81be14111e","type":"text","text":"白棋先F5，再瞄E2","x":5275,"y":1800,"width":250,"height":80},
-		{"id":"db32e98aec127e93","type":"file","file":"中盘/提前确认交换的优先级.md","x":5200,"y":1940,"width":400,"height":520},
 		{"id":"397dc53548505959","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213819.png","x":-600,"y":-200,"width":400,"height":400},
 		{"id":"679fbea19ff187d9","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213743.png","x":-1840,"y":-200,"width":400,"height":400},
-		{"id":"a7fb9e5a423ab10e","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-1200,"y":-200,"width":400,"height":400}
+		{"id":"a7fb9e5a423ab10e","type":"file","file":"开局/白棋/虎系开局/picture/Pasted image 20250122213751.png","x":-1200,"y":-200,"width":400,"height":400},
+		{"id":"db32e98aec127e93","type":"file","file":"中盘/提前确认交换的优先级.md","x":5200,"y":1960,"width":400,"height":520}
 	],
 	"edges":[
 		{"id":"fb579943d5048f7b","fromNode":"c6172c1c2a483f6c","fromSide":"right","toNode":"1b1825446a77f756","toSide":"left"},
