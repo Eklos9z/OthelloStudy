@@ -43,7 +43,8 @@
 		{"id":"66b3271bb2cce2e4","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003547.png","x":17140,"y":-200,"width":400,"height":400},
 		{"id":"65fa28ff82c7ec4d","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003736.png","x":17780,"y":-200,"width":400,"height":400},
 		{"id":"e8aa1eed3d6eef12","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250124003757.png","x":18360,"y":-200,"width":400,"height":400},
-		{"id":"e3d724ce3d4c53b5","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png","x":2760,"y":880,"width":400,"height":400}
+		{"id":"e3d724ce3d4c53b5","type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250126110355.png","x":2760,"y":880,"width":400,"height":400},
+		{"id":"b7708f3afd35b25e","x":3560,"y":880,"width":400,"height":400,"type":"file","file":"开局/白棋/猫系开局/picture/Pasted image 20250204114529.png"}
 	],
 	"edges":[
 		{"id":"65db3c055251ad9d","fromNode":"c5b2fd518bce75a7","fromSide":"right","toNode":"f51880bc01b11fda","toSide":"left"},
@@ -74,6 +75,7 @@
 		{"id":"65ce428847a46b25","fromNode":"f1d9e6bf443af151","fromSide":"right","toNode":"66b3271bb2cce2e4","toSide":"left"},
 		{"id":"72e8adcf492b8eeb","fromNode":"66b3271bb2cce2e4","fromSide":"right","toNode":"65fa28ff82c7ec4d","toSide":"left"},
 		{"id":"dfb34aa710c7f629","fromNode":"65fa28ff82c7ec4d","fromSide":"right","toNode":"e8aa1eed3d6eef12","toSide":"left"},
-		{"id":"db9f9b7ab5605eff","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e3d724ce3d4c53b5","toSide":"left","label":"F6分支(sea otter)"}
+		{"id":"db9f9b7ab5605eff","fromNode":"4f8b01d49bd828a9","fromSide":"right","toNode":"e3d724ce3d4c53b5","toSide":"left","label":"F6分支(sea otter)"},
+		{"id":"aa72f3e5f0268c8a","fromNode":"e3d724ce3d4c53b5","fromSide":"right","toNode":"b7708f3afd35b25e","toSide":"left"}
 	]
 }
