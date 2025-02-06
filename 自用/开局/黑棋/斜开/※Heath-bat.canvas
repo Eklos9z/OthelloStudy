@@ -33,7 +33,10 @@
 		{"id":"d7739c553c4faa94","x":3480,"y":-320,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250207002047.png"},
 		{"id":"90d8041777bbb61b","x":4200,"y":-320,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250207002106.png"},
 		{"id":"38e503ef92d30341","x":4960,"y":-320,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250207002115.png"},
-		{"id":"87e197952eef71e1","x":5760,"y":-320,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250207002123.png"}
+		{"id":"87e197952eef71e1","x":5760,"y":-320,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250207002123.png"},
+		{"id":"c9eb989b5028b971","x":6560,"y":-320,"width":400,"height":400,"type":"file","file":"开局/黑棋/斜开/picture/Pasted image 20250207002155.png"},
+		{"id":"a995e6ab67ba1d5a","x":5835,"y":218,"width":250,"height":50,"type":"text","text":"黑棋唯一的选择"},
+		{"id":"29d9c19d23ca0fcb","x":6635,"y":218,"width":250,"height":50,"type":"text","text":"白棋不破墙"}
 	],
 	"edges":[
 		{"id":"86a60bb4052568f1","fromNode":"e4bd7320f54773f7","fromSide":"right","toNode":"7964a04ca197ecf2","toSide":"left"},
@@ -63,6 +66,9 @@
 		{"id":"c41fc41d1725fae8","fromNode":"8e6cc1adf9bb3a2b","fromSide":"right","toNode":"d7739c553c4faa94","toSide":"left","label":"C6分支"},
 		{"id":"3ae3dcd57ba0fc53","fromNode":"d7739c553c4faa94","fromSide":"right","toNode":"90d8041777bbb61b","toSide":"left"},
 		{"id":"0e47a6090be72b00","fromNode":"90d8041777bbb61b","fromSide":"right","toNode":"38e503ef92d30341","toSide":"left"},
-		{"id":"c051a885dc134862","fromNode":"38e503ef92d30341","fromSide":"right","toNode":"87e197952eef71e1","toSide":"left"}
+		{"id":"c051a885dc134862","fromNode":"38e503ef92d30341","fromSide":"right","toNode":"87e197952eef71e1","toSide":"left"},
+		{"id":"91f2cbf3b1627fd7","fromNode":"87e197952eef71e1","fromSide":"right","toNode":"c9eb989b5028b971","toSide":"left"},
+		{"id":"545c94a8de6485d3","fromNode":"a995e6ab67ba1d5a","fromSide":"top","toNode":"87e197952eef71e1","toSide":"bottom"},
+		{"id":"918e6dfb2ac8336f","fromNode":"29d9c19d23ca0fcb","fromSide":"top","toNode":"c9eb989b5028b971","toSide":"bottom"}
 	]
 }
