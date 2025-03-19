@@ -11,13 +11,16 @@
 		{"id":"28b4ebc0f22008a5","type":"text","text":"最终导向不平衡边","x":2515,"y":-122,"width":250,"height":60},
 		{"id":"afca6cf262881b24","type":"file","file":"中盘/picture/Pasted image 20250319171145.png","x":880,"y":-971,"width":398,"height":400},
 		{"id":"7d9e9fb5c961ff01","type":"text","text":"对手跟着下B","x":275,"y":-160,"width":250,"height":60},
-		{"id":"8250c36cb2d6fc12","x":1795,"y":-920,"width":250,"height":60,"type":"text","text":"导向黑四通雏形"}
+		{"id":"8250c36cb2d6fc12","x":1795,"y":-920,"width":250,"height":60,"type":"text","text":"导向黑四通雏形"},
+		{"id":"54880574bdf833bd","x":2440,"y":-1751,"width":400,"height":386,"type":"file","file":"中盘/picture/Pasted image 20250319171555.png"},
+		{"id":"e06b50d6036e7ec6","x":2515,"y":-1320,"width":250,"height":60,"type":"text","text":"如四通不有利，破坏然后送对手"}
 	],
 	"edges":[
 		{"id":"c9a6eb1f5488bdcf","fromNode":"70e0528432c8c461","fromSide":"right","toNode":"dae9bf5845fc1dce","toSide":"left"},
 		{"id":"bd6e2bc9dee27043","fromNode":"dae9bf5845fc1dce","fromSide":"right","toNode":"afca6cf262881b24","toSide":"left"},
 		{"id":"3508ebee69694cc7","fromNode":"afca6cf262881b24","fromSide":"right","toNode":"4cfe7aefdb5e412d","toSide":"left"},
 		{"id":"0c73e4b02e8cabe6","fromNode":"afca6cf262881b24","fromSide":"right","toNode":"b82637271f065f97","toSide":"left"},
-		{"id":"0d38414f5821b885","fromNode":"b82637271f065f97","fromSide":"right","toNode":"d720e169822fb540","toSide":"left"}
+		{"id":"0d38414f5821b885","fromNode":"b82637271f065f97","fromSide":"right","toNode":"d720e169822fb540","toSide":"left"},
+		{"id":"2be8dc73efcdde4c","fromNode":"4cfe7aefdb5e412d","fromSide":"right","toNode":"54880574bdf833bd","toSide":"left"}
 	]
 }
