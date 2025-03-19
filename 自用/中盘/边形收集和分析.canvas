@@ -1,15 +1,16 @@
 {
 	"nodes":[
-		{"id":"70e0528432c8c461","x":-460,"y":-180,"width":400,"height":391,"type":"file","file":"中盘/picture/Pasted image 20250319171001.png"},
-		{"id":"ddaa3b941a930c13","x":-385,"y":240,"width":250,"height":60,"type":"text","text":"先手落入A位"},
-		{"id":"f90050007b44637b","x":-460,"y":880,"width":400,"height":394,"type":"file","file":"中盘/picture/Pasted image 20250319171025.png"},
-		{"id":"ededc89e147e1e8d","x":-385,"y":1303,"width":250,"height":60,"type":"text","text":"先手落入B位"},
-		{"id":"dae9bf5845fc1dce","x":200,"y":-640,"width":400,"height":391,"type":"file","file":"中盘/picture/Pasted image 20250319171110.png"},
-		{"id":"afca6cf262881b24","x":960,"y":-649,"width":398,"height":400,"type":"file","file":"中盘/picture/Pasted image 20250319171145.png"},
-		{"id":"b82637271f065f97","x":1800,"y":-249,"width":400,"height":388,"type":"file","file":"中盘/picture/Pasted image 20250319171236.png"},
-		{"id":"4cfe7aefdb5e412d","x":1800,"y":-1043,"width":400,"height":394,"type":"file","file":"中盘/picture/Pasted image 20250319171217.png"},
-		{"id":"d720e169822fb540","x":2520,"y":-251,"width":400,"height":392,"type":"file","file":"中盘/picture/Pasted image 20250319171324.png"},
-		{"id":"28b4ebc0f22008a5","x":2595,"y":200,"width":250,"height":60,"type":"text","text":"最终导向不平衡边"}
+		{"id":"70e0528432c8c461","type":"file","file":"中盘/picture/Pasted image 20250319171001.png","x":-460,"y":-180,"width":400,"height":391},
+		{"id":"ddaa3b941a930c13","type":"text","text":"先手落入A位","x":-385,"y":240,"width":250,"height":60},
+		{"id":"f90050007b44637b","type":"file","file":"中盘/picture/Pasted image 20250319171025.png","x":-460,"y":880,"width":400,"height":394},
+		{"id":"ededc89e147e1e8d","type":"text","text":"先手落入B位","x":-385,"y":1303,"width":250,"height":60},
+		{"id":"7d9e9fb5c961ff01","type":"text","text":"","x":275,"y":-180,"width":250,"height":60},
+		{"id":"dae9bf5845fc1dce","type":"file","file":"中盘/picture/Pasted image 20250319171110.png","x":200,"y":-571,"width":400,"height":391},
+		{"id":"4cfe7aefdb5e412d","type":"file","file":"中盘/picture/Pasted image 20250319171217.png","x":1720,"y":-1365,"width":400,"height":394},
+		{"id":"b82637271f065f97","type":"file","file":"中盘/picture/Pasted image 20250319171236.png","x":1720,"y":-571,"width":400,"height":388},
+		{"id":"d720e169822fb540","type":"file","file":"中盘/picture/Pasted image 20250319171324.png","x":2440,"y":-573,"width":400,"height":392},
+		{"id":"28b4ebc0f22008a5","type":"text","text":"最终导向不平衡边","x":2515,"y":-122,"width":250,"height":60},
+		{"id":"afca6cf262881b24","type":"file","file":"中盘/picture/Pasted image 20250319171145.png","x":880,"y":-971,"width":398,"height":400}
 	],
 	"edges":[
 		{"id":"c9a6eb1f5488bdcf","fromNode":"70e0528432c8c461","fromSide":"right","toNode":"dae9bf5845fc1dce","toSide":"left"},
