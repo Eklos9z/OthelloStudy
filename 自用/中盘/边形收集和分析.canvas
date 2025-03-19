@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"70e0528432c8c461","x":-460,"y":-180,"width":400,"height":391,"type":"file","file":"中盘/picture/Pasted image 20250319171001.png"},
+		{"id":"ddaa3b941a930c13","x":-385,"y":240,"width":250,"height":60,"type":"text","text":"先手落入A位"},
+		{"id":"f90050007b44637b","x":-460,"y":880,"width":400,"height":394,"type":"file","file":"中盘/picture/Pasted image 20250319171025.png"},
+		{"id":"ededc89e147e1e8d","x":-385,"y":1303,"width":250,"height":60,"type":"text","text":"先手落入B位"}
+	],
+	"edges":[]
+}
