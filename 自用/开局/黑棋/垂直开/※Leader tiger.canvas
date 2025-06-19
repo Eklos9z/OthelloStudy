@@ -42,9 +42,10 @@
 		{"id":"3495477430b68aeb","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250121000036.png","x":5405,"y":-2880,"width":400,"height":400},
 		{"id":"616ff1ca9a3eaa24","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250202230950.png","x":4760,"y":1600,"width":400,"height":400},
 		{"id":"c1ff3f3611bf8130","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250202231257.png","x":5400,"y":1600,"width":400,"height":400},
-		{"id":"36f2ef77560894b1","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250619111445.png","x":6080,"y":640,"width":400,"height":400},
 		{"id":"055ac4e48903cd12","type":"text","text":"f5d6c3d3c4f4e6b3e2c5b4d2c6f6","x":6155,"y":1080,"width":250,"height":60},
-		{"id":"95a637ae8ef47365","x":4760,"y":-920,"width":400,"height":400,"type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250619115520.png"}
+		{"id":"95a637ae8ef47365","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250619115520.png","x":4760,"y":-920,"width":400,"height":400},
+		{"id":"f518cdb661b67252","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250619115609.png","x":5400,"y":-920,"width":400,"height":400},
+		{"id":"3f61d81d0802c4f3","type":"file","file":"开局/黑棋/垂直开/picture/Pasted image 20250619115636.png","x":6080,"y":600,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"08dd86537777ed4b","fromNode":"6598e462dc2a3e6b","fromSide":"right","toNode":"a66c0c1af5c0c883","toSide":"left"},
@@ -86,9 +87,10 @@
 		{"id":"d8188485c139bae0","fromNode":"a6eb8712f5a7f810","fromSide":"right","toNode":"8bc475c87d0a2db4","toSide":"left"},
 		{"id":"c5aac989b5e93210","fromNode":"db16ec49cd2f41fd","fromSide":"top","toNode":"a6eb8712f5a7f810","toSide":"bottom"},
 		{"id":"d3b3a579dbd14967","fromNode":"f64013936111e424","fromSide":"top","toNode":"c5e7a681a5512d70","toSide":"bottom"},
-		{"id":"818b33d1007dc241","fromNode":"11940e7185d9762f","fromSide":"bottom","toNode":"616ff1ca9a3eaa24","toSide":"left","label":"D7分支"},
+		{"id":"818b33d1007dc241","fromNode":"11940e7185d9762f","fromSide":"bottom","toNode":"616ff1ca9a3eaa24","toSide":"left","label":"E3分支"},
 		{"id":"7055e0b15c2b51ef","fromNode":"616ff1ca9a3eaa24","fromSide":"right","toNode":"c1ff3f3611bf8130","toSide":"left"},
-		{"id":"0d78f96b5b08b8e4","fromNode":"b8a47eac824fc78a","fromSide":"bottom","toNode":"36f2ef77560894b1","toSide":"left","label":"F6分支\n（未计算）"},
-		{"id":"8e68b2398576be4d","fromNode":"11940e7185d9762f","fromSide":"top","toNode":"95a637ae8ef47365","toSide":"left","label":"A3分支"}
+		{"id":"8e68b2398576be4d","fromNode":"11940e7185d9762f","fromSide":"top","toNode":"95a637ae8ef47365","toSide":"left","label":"A3分支\n（未计算）"},
+		{"id":"fc6ffa70c7b2eb68","fromNode":"95a637ae8ef47365","fromSide":"right","toNode":"f518cdb661b67252","toSide":"left"},
+		{"id":"0d78f96b5b08b8e4","fromNode":"b8a47eac824fc78a","fromSide":"bottom","toNode":"3f61d81d0802c4f3","toSide":"left","label":"F6分支\n（未计算）"}
 	]
 }
